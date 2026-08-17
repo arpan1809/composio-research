@@ -41,13 +41,13 @@ git init
 git add .
 git commit -m "Composio 100-app research case study"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/composio-research.git
+git remote add origin https://github.com/arpan1809/composio-research.git
 git push -u origin main
 ```
 
 In GitHub repo Settings → Pages → Source: `main` branch, folder `/case-study`.
 
-Live URL: `https://YOUR_USERNAME.github.io/composio-research/`
+Live URL: `https://arpan1809.github.io/composio-research/`
 
 ## Project structure
 
