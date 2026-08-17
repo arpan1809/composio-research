@@ -66,19 +66,7 @@ case-study/
   index.html           # Deployable deliverable
 ```
 
-## Supabase (optional)
 
-Create table `app_research`:
-
-```sql
-create table app_research (
-  app_id int primary key,
-  app_name text,
-  category text,
-  data jsonb,
-  updated_at timestamptz default now()
-);
-```
 
 ## CLI flags
 
