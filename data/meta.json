@@ -1,0 +1,14 @@
+{
+  "pass1_completed_at": "2026-08-17T13:31:06.197314+00:00",
+  "pass1_count": 100,
+  "pass1_elapsed_sec": 590.5,
+  "pass2_completed_at": "2026-08-17T13:40:29.937295+00:00",
+  "verification_sample_size": 20,
+  "verification_stats": {
+    "correct": 1,
+    "partial": 12,
+    "wrong": 0,
+    "unverifiable": 7,
+    "accuracy_pct": 35.0
+  }
+}

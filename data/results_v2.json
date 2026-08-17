@@ -1,0 +1,3994 @@
+[
+  {
+    "id": 1,
+    "name": "Salesforce",
+    "category": "CRM and Sales",
+    "website": "salesforce.com",
+    "hint": "salesforce.com",
+    "one_liner": "Salesforce — CRM and Sales (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://developer.salesforce.com/docs/platform/connect-rest-api/guide/intro_using_oauth.html",
+      "https://www.integrate.io/blog/salesforce-rest-api-integration",
+      "https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_calls_login.htm"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:21:23.098037+00:00",
+    "search_urls": [
+      "https://developer.salesforce.com/docs/platform/connect-rest-api/guide/intro_using_oauth.html",
+      "https://www.integrate.io/blog/salesforce-rest-api-integration",
+      "https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_calls_login.htm",
+      "https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/resources_list.htm",
+      "https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/quickstart_oauth.htm",
+      "https://www.apideck.com/blog/how-to-get-your-salesforce-api-keys",
+      "https://www.salesforceben.com/salesforce-to-salesforce-integration-using-oauth-2-0-a-comprehensive-guide",
+      "https://www.youtube.com/watch?v=q88f7DExuQM"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "HubSpot",
+    "category": "CRM and Sales",
+    "website": "hubspot.com",
+    "hint": "hubspot.com",
+    "one_liner": "HubSpot — CRM and Sales (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/overview",
+      "https://developers.hubspot.com/docs/apps/legacy-apps/authentication/intro-to-auth",
+      "https://community.n8n.io/t/hubspot-authentication-do-not-work-in-developer-account/14577?tl=en"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:21:29.537506+00:00",
+    "search_urls": [
+      "https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/overview",
+      "https://developers.hubspot.com/docs/apps/legacy-apps/authentication/intro-to-auth",
+      "https://community.n8n.io/t/hubspot-authentication-do-not-work-in-developer-account/14577?tl=en",
+      "https://developers.hubspot.com/docs/apps/legacy-apps/authentication/working-with-oauth",
+      "https://developers.hubspot.com/docs",
+      "https://growthnatives.com/blogs/hubspot/hubspot-sunsets-api-keys",
+      "https://developers.hubspot.com/docs/api-reference/legacy/authentication/oauth-tokens/v1/guide",
+      "https://community.hubspot.com/t/creating-an-api-key/71448"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pipedrive",
+    "category": "CRM and Sales",
+    "website": "pipedrive.com",
+    "hint": "pipedrive.com",
+    "one_liner": "Pipedrive — CRM and Sales (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://pipedrive.readme.io/docs/core-api-concepts-authentication",
+      "https://developers.pipedrive.com/docs/api/v1/Oauth",
+      "https://developers.pipedrive.com"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:21:38.613897+00:00",
+    "search_urls": [
+      "https://pipedrive.readme.io/docs/core-api-concepts-authentication",
+      "https://developers.pipedrive.com/docs/api/v1/Oauth",
+      "https://developers.pipedrive.com",
+      "https://developers.pipedrive.com/docs/api/v1",
+      "https://endgrate.com/blog/using-the-pipedrive-api-to-create-or-update-deals-in-javascript",
+      "https://www.pipedrive.com/en/features/crm-api",
+      "https://support.pipedrive.com/en/article/what-is-the-api-key-for",
+      "https://www.npmjs.com/package/pipedrive"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Attio",
+    "category": "CRM and Sales",
+    "website": "attio.com",
+    "hint": "attio.com",
+    "one_liner": "Attio — CRM and Sales (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://www.stacksync.com/blog/how-to-get-an-attio-developer-account-and-start-working-with-attios-api",
+      "https://apitracker.io/a/attio",
+      "https://docs.attio.com/rest-api/guides/authentication"
+    ],
+    "confidence": 0.65,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:21:46.142198+00:00",
+    "search_urls": [
+      "https://www.stacksync.com/blog/how-to-get-an-attio-developer-account-and-start-working-with-attios-api",
+      "https://apitracker.io/a/attio",
+      "https://docs.attio.com/rest-api/guides/authentication",
+      "https://github.com/api-evangelist/attio",
+      "https://docs.attio.com/rest-api/overview",
+      "https://docs.attio.com/sdk/server/attio-api-token",
+      "https://www.automationjinn.com/blog/attio-api-guide",
+      "https://www.apideck.com/integrations/attio"
+    ],
+    "verified_at": "2026-08-17T13:39:54.138412+00:00",
+    "verification_overall": "partial"
+  },
+  {
+    "id": 5,
+    "name": "Twenty",
+    "category": "CRM and Sales",
+    "website": "twenty.com",
+    "hint": "twenty.com (open-source CRM)",
+    "one_liner": "Twenty — CRM and Sales (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://apis.io/apis/twentyci/twentyapi-categories-api",
+      "https://docs.twenty.com/developers/introduction",
+      "https://github.com/twentyhq/twenty/issues/10283"
+    ],
+    "confidence": 0.65,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:21:52.928223+00:00",
+    "search_urls": [
+      "https://apis.io/apis/twentyci/twentyapi-categories-api",
+      "https://docs.twenty.com/developers/introduction",
+      "https://github.com/twentyhq/twenty/issues/10283",
+      "https://docs.twenty.com/developers/extend/api",
+      "https://12twenty.zendesk.com/hc/en-us/articles/4413533606803-API",
+      "https://hyteck.de/post/trying-twenty",
+      "https://docs.twenty.com/developers/extend/oauth",
+      "https://twenty.com"
+    ],
+    "verified_at": "2026-08-17T13:40:17.144193+00:00",
+    "verification_overall": "partial"
+  },
+  {
+    "id": 6,
+    "name": "Podio",
+    "category": "CRM and Sales",
+    "website": "podio.com",
+    "hint": "podio.com",
+    "one_liner": "Podio — CRM and Sales (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://developers.podio.com/authentication",
+      "https://developers.podio.com/authentication/server_side",
+      "https://publicapi.dev/podio-api"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:22:00.247075+00:00",
+    "search_urls": [
+      "https://developers.podio.com/authentication",
+      "https://developers.podio.com/authentication/server_side",
+      "https://publicapi.dev/podio-api",
+      "https://developers.podio.com",
+      "https://developers.podio.com/authentication/client_side",
+      "https://www.stitchflow.com/user-management/podio/api",
+      "https://developers.podio.com/doc/oauth-authorization/get-access-token-22359",
+      "https://apis.io/apis/podio/rest-api"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Zoho CRM",
+    "category": "CRM and Sales",
+    "website": "zoho.com/crm",
+    "hint": "zoho.com/crm",
+    "one_liner": "Zoho CRM — CRM and Sales (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://apitracker.io/a/zoho-crm",
+      "https://www.zoho.com/crm/developer/docs/api/v8/oauth-overview.html",
+      "https://www.zoho.com/crm/developer/docs/api/v8/auth-request.html"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:22:09.017031+00:00",
+    "search_urls": [
+      "https://apitracker.io/a/zoho-crm",
+      "https://www.zoho.com/crm/developer/docs/api/v8/oauth-overview.html",
+      "https://www.zoho.com/crm/developer/docs/api/v8/auth-request.html",
+      "https://www.youtube.com/watch?v=WuDDfEgVI_8",
+      "https://www.zoho.com/crm/developer/docs",
+      "https://help.zoho.com/portal/en/community/topic/setting-up-the-api-key",
+      "https://www.zoho.com/crm/developer/docs/api/v8/access-refresh.html",
+      "https://www.zoho.com/crm/developer/docs/functions/auth-method.html"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Close",
+    "category": "CRM and Sales",
+    "website": "close.com",
+    "hint": "close.com",
+    "one_liner": "Close — CRM and Sales (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://developer.close.com/api/overview",
+      "https://developer.close.com",
+      "https://apitracker.io/a/closeio"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:22:16.107153+00:00",
+    "search_urls": [
+      "https://developer.close.com/api/overview",
+      "https://developer.close.com",
+      "https://apitracker.io/a/closeio",
+      "https://developer.close.com/api/overview/oauth-authentication",
+      "https://developer.close.com/api/resources/leads",
+      "https://help.close.com/integrations/api-keys-oauth",
+      "https://www.getknit.dev/blog/close-api-directory-bjpPxE",
+      "https://developer.close.com/api/overview/api-key-authentication"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Copper",
+    "category": "CRM and Sales",
+    "website": "copper.com",
+    "hint": "copper.com",
+    "one_liner": "Copper — CRM and Sales (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://developer.copper.com/introduction/oauth/flow.html",
+      "https://developer.copper.co/api-reference/authentication",
+      "https://developer.copper.com/introduction/oauth/index.html"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:22:23.573644+00:00",
+    "search_urls": [
+      "https://developer.copper.com/introduction/oauth/flow.html",
+      "https://developer.copper.co/api-reference/authentication",
+      "https://developer.copper.com/introduction/oauth/index.html",
+      "https://developer.copper.com/introduction/requests.html",
+      "https://developer.copper.com/introduction/authentication.html",
+      "https://truto.one/blog/integrate-copper",
+      "https://dev.to/gettruto/3-steps-to-integrate-with-copper-crm-using-rest-api-4db6",
+      "https://www.apideck.com/integrations/copper"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "DealCloud",
+    "category": "CRM and Sales",
+    "website": "api.docs.dealcloud.com",
+    "hint": "api.docs.dealcloud.com",
+    "one_liner": "DealCloud — CRM and Sales (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://apitracker.io/a/dealcloud",
+      "https://api.docs.dealcloud.com/sdk/python/authentication",
+      "https://api.docs.dealcloud.com"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:22:32.755947+00:00",
+    "search_urls": [
+      "https://apitracker.io/a/dealcloud",
+      "https://api.docs.dealcloud.com/sdk/python/authentication",
+      "https://api.docs.dealcloud.com",
+      "https://docs.paywint.com/authentication",
+      "https://developers.arcgis.com/documentation/glossary/api-key-authentication",
+      "https://api.docs.dealcloud.com/docs/apikeys",
+      "https://api.docs.dealcloud.com/docs/data",
+      "https://developers.anduintransact.com/docs/step-1-retrieve-credentials-of-3rd-party-apps-7"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Zendesk",
+    "category": "Support and Helpdesk",
+    "website": "zendesk.com",
+    "hint": "zendesk.com",
+    "one_liner": "Zendesk — Support and Helpdesk (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "GraphQL",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://developer.zendesk.com/api-reference/ticketing/introduction",
+      "https://developer.zendesk.com/api-reference/introduction/security-and-auth",
+      "https://developer.zendesk.com/api-reference/ticketing/tickets/tickets"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:22:40.282724+00:00",
+    "search_urls": [
+      "https://developer.zendesk.com/api-reference/ticketing/introduction",
+      "https://developer.zendesk.com/api-reference/introduction/security-and-auth",
+      "https://developer.zendesk.com/api-reference/ticketing/tickets/tickets",
+      "https://apitracker.io/a/zendesk",
+      "https://developer.zendesk.com/api-reference",
+      "https://developer.zendesk.com/api-reference/ticketing/oauth/oauth_tokens",
+      "https://support.zendesk.com/hc/en-us/articles/4408845965210-Using-OAuth-authentication-with-your-application",
+      "https://developer.zendesk.com/documentation/authentication/creating-and-using-oauth-tokens-with-the-api"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Intercom",
+    "category": "Support and Helpdesk",
+    "website": "intercom.com",
+    "hint": "intercom.com",
+    "one_liner": "Intercom — Support and Helpdesk (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "contact_sales",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "blocked",
+    "blocker": "contact_sales gate",
+    "evidence_urls": [
+      "https://endgrate.com/blog/using-the-intercom-api-to-create-or-update-companies-in-python",
+      "https://www.intercom.com/help/en/articles/9071694-intercom-developer-faqs",
+      "https://developers.intercom.com/docs/build-an-integration/learn-more/authentication"
+    ],
+    "confidence": 0.65,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:22:49.392047+00:00",
+    "search_urls": [
+      "https://endgrate.com/blog/using-the-intercom-api-to-create-or-update-companies-in-python",
+      "https://www.intercom.com/help/en/articles/9071694-intercom-developer-faqs",
+      "https://developers.intercom.com/docs/build-an-integration/learn-more/authentication",
+      "https://apitracker.io/a/intercom",
+      "https://developers.intercom.com",
+      "https://agentsapis.com/intercom-api",
+      "https://community.oracle.com/customerconnect/discussion/870467/how-to-secure-oic-rest-api-with-api-key-x-api-key-instead-of-oauth",
+      "https://craft.co/intercom/executives"
+    ],
+    "verified_at": "2026-08-17T13:40:11.303965+00:00",
+    "verification_overall": "partial"
+  },
+  {
+    "id": 13,
+    "name": "Freshdesk",
+    "category": "Support and Helpdesk",
+    "website": "freshdesk.com",
+    "hint": "freshdesk.com",
+    "one_liner": "Freshdesk — Support and Helpdesk (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://community.freshworks.dev/t/how-to-use-oauth-authentication-mechanism-for-freshdesk-api/1691",
+      "https://developers.freshchat.com/api",
+      "https://apis.io/providers/freshdesk"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:22:59.705323+00:00",
+    "search_urls": [
+      "https://community.freshworks.dev/t/how-to-use-oauth-authentication-mechanism-for-freshdesk-api/1691",
+      "https://developers.freshchat.com/api",
+      "https://apis.io/providers/freshdesk",
+      "https://api.freshservice.com",
+      "https://developers.freshdesk.com/api",
+      "https://support.freshdesk.com/support/solutions/articles/225435-where-can-i-find-my-api-key-",
+      "https://community.retool.com/t/freshdesk-resource-authentication/25795",
+      "https://www.eesel.ai/blog/freshdesk-ticket-api-examples"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Front",
+    "category": "Support and Helpdesk",
+    "website": "front.com",
+    "hint": "front.com",
+    "one_liner": "Front — Support and Helpdesk (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://endgrate.com/blog/using-the-front-api-to-create-or-update-accounts-(with-javascript-examples)",
+      "https://apitracker.io/a/front-app",
+      "https://dev.frontapp.com/docs/create-and-revoke-api-tokens"
+    ],
+    "confidence": 0.65,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:23:08.377571+00:00",
+    "search_urls": [
+      "https://endgrate.com/blog/using-the-front-api-to-create-or-update-accounts-(with-javascript-examples)",
+      "https://apitracker.io/a/front-app",
+      "https://dev.frontapp.com/docs/create-and-revoke-api-tokens",
+      "https://community.front.com/developers-36",
+      "https://dev.frontapp.com/docs/authentication",
+      "https://groups.io/g/twsapi/topic/rest_api_oauth/84011541",
+      "https://blog.dreamfactory.com/how-to-secure-rest-apis-api-keys-vs-oauth",
+      "https://blog.dreamfactory.com/how-to-secure-rest-apis-api-keys-vs-oauth?hs_amp=true"
+    ],
+    "verified_at": "2026-08-17T13:40:04.164712+00:00",
+    "verification_overall": "partial"
+  },
+  {
+    "id": 15,
+    "name": "Pylon",
+    "category": "Support and Helpdesk",
+    "website": "usepylon.com",
+    "hint": "usepylon.com",
+    "one_liner": "Pylon — Support and Helpdesk (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://docs.usepylon.com/pylon-docs/developer/api/authentication",
+      "https://apitracker.io/a/usepylon",
+      "https://ja.docs.baslerweb.com/pylonapi"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:23:15.237042+00:00",
+    "search_urls": [
+      "https://docs.usepylon.com/pylon-docs/developer/api/authentication",
+      "https://apitracker.io/a/usepylon",
+      "https://ja.docs.baslerweb.com/pylonapi",
+      "https://docs.firetiger.com/integrations/developer-tools/pylon.html",
+      "https://truto.one/integrations/detail/pylon",
+      "https://apis.io/apis/pylon/pylon-knowledge-base-api",
+      "https://www.scalekit.com/blog/pylon-mcp-vs-api",
+      "https://github.com/api-evangelist/pylon"
+    ],
+    "verified_at": "2026-08-17T13:39:52.448320+00:00",
+    "verification_overall": "unverifiable"
+  },
+  {
+    "id": 16,
+    "name": "LiveAgent",
+    "category": "Support and Helpdesk",
+    "website": "liveagent.com",
+    "hint": "liveagent.com",
+    "one_liner": "LiveAgent — Support and Helpdesk (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "trial",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://www.youtube.com/watch?v=IDXf9Rb6y8Q",
+      "https://support.liveagent.com/840770-Complete-API-reference",
+      "https://support.liveagent.com/911737-API-v3"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:23:23.095767+00:00",
+    "search_urls": [
+      "https://www.youtube.com/watch?v=IDXf9Rb6y8Q",
+      "https://support.liveagent.com/840770-Complete-API-reference",
+      "https://support.liveagent.com/911737-API-v3",
+      "https://github.com/pavolbiely/liveagent",
+      "https://salesforce.stackexchange.com/questions/86376/how-create-a-live-agent-session-by-rest-api",
+      "https://support.liveagent.com/741982-API-key",
+      "https://salesforce.stackexchange.com/questions/269807/how-can-i-use-oauth-on-salesforce-live-agent-rest-api",
+      "https://support.liveagent.com/802463-REST-API"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Plain",
+    "category": "Support and Helpdesk",
+    "website": "plain.com",
+    "hint": "plain.com",
+    "one_liner": "Plain — Support and Helpdesk (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://apis.io/providers/plain",
+      "https://www.plain.com/docs/graphql/introduction",
+      "https://buildwithfern.com/post/api-documentation-for-non-technical-users"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:23:29.987942+00:00",
+    "search_urls": [
+      "https://apis.io/providers/plain",
+      "https://www.plain.com/docs/graphql/introduction",
+      "https://buildwithfern.com/post/api-documentation-for-non-technical-users",
+      "https://www.youtube.com/watch?v=8Et3hnnflSc",
+      "https://readme.com/resources/api-authentication",
+      "https://apis.io/security/plain/plain-authentication",
+      "https://www.plain.com/blog/api-first-support-platforms",
+      "https://www.plain.com/docs/graphql/authentication"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Help Scout",
+    "category": "Support and Helpdesk",
+    "website": "helpscout.com",
+    "hint": "helpscout.com",
+    "one_liner": "Help Scout — Support and Helpdesk (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://apis.apievangelist.com/store/helpscout-customers-api",
+      "https://developer.helpscout.com/mailbox-api/overview/authentication",
+      "https://developer.helpscout.com/docs-api"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:23:37.544471+00:00",
+    "search_urls": [
+      "https://apis.apievangelist.com/store/helpscout-customers-api",
+      "https://developer.helpscout.com/mailbox-api/overview/authentication",
+      "https://developer.helpscout.com/docs-api",
+      "https://docs.helpscout.com/article/1140-mailbox-api",
+      "https://github.com/helpscout/helpscout-api-php/blob/master/README.md",
+      "https://docs.searchunify.com/Content/Content-Sources/Helpscout-Authentication.htm",
+      "https://developer.helpscout.com/mailbox-api",
+      "https://www.youtube.com/watch?v=LMXYIHE8ZG8"
+    ],
+    "verified_at": "2026-08-17T13:40:02.678211+00:00",
+    "verification_overall": "unverifiable"
+  },
+  {
+    "id": 19,
+    "name": "Gorgias",
+    "category": "Support and Helpdesk",
+    "website": "gorgias.com",
+    "hint": "gorgias.com",
+    "one_liner": "Gorgias — Support and Helpdesk (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://docs.gorgias.com/en-US/articles/developer-resources-18370",
+      "https://apis.io/apis/gorgias/gorgias-tags-api",
+      "https://developers.gorgias.com/docs/oauth2-authentication-for-creating-apps-with-gorgias"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:23:42.271338+00:00",
+    "search_urls": [
+      "https://docs.gorgias.com/en-US/articles/developer-resources-18370",
+      "https://apis.io/apis/gorgias/gorgias-tags-api",
+      "https://developers.gorgias.com/docs/oauth2-authentication-for-creating-apps-with-gorgias",
+      "https://developers.gorgias.com/docs/create-a-ticket-using-api",
+      "https://docs.gorgias.com/en-US/rest-api-208286",
+      "https://github.com/api-evangelist/gorgias",
+      "https://apps.make.com/gorgias-6foyv4?_gl=1%2A1l9huy2%2A_gcl_aw%2AR0NMLjE3NDgzMjY2MjEuQ2owS0NRandvdERCQmhDUUFSSXNBRzVwaW5NWDR5cDBNZ0N3NnEwTTRGMUZJZHV4MndlazJ3YzdibGVZdkg4dWc5bjFuTHBMWFNpVUFxOGFBaWhfRUFMd193Y0I.%2A_gcl_au%2ANDM1NTgyODE1LjE3NDQxMDMzNTE.%2A_ga%2AMzEzNDM5ODEzLjE3NDQxMDMzNDk.%2A_ga_MY0CJTCDSF%2AczE3NDk3MTAzMzUkbzI0JGcxJHQxNzQ5NzEwODcxJGoxOCRsMCRoMA..",
+      "https://flowbuilder-lansweeper.document360.io/docs/gorgias-connector"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Gladly",
+    "category": "Support and Helpdesk",
+    "website": "gladly.com",
+    "hint": "gladly.com",
+    "one_liner": "Gladly — Support and Helpdesk (heuristic extract)",
+    "auth_methods": [
+      "Basic"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://developer.gladly.com/rest",
+      "https://apis.io/apis/gladly/gladly-answer-management-api",
+      "https://docs.extract.to/sources/gladly"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:23:47.226907+00:00",
+    "search_urls": [
+      "https://developer.gladly.com/rest",
+      "https://apis.io/apis/gladly/gladly-answer-management-api",
+      "https://docs.extract.to/sources/gladly",
+      "https://developer.gladly.com",
+      "https://github.com/gladly/rest-api-examples",
+      "https://help.gladly.com/developer-tutorials/docs/test-the-rest-api-with-postman",
+      "https://help.gladly.com/docs/api-export-tool"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Slack",
+    "category": "Communications and Messaging",
+    "website": "slack.com",
+    "hint": "slack.com",
+    "one_liner": "Slack — Communications and Messaging (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://docs.slack.dev/authentication",
+      "https://x.com/SlackAPI/status/417806201636675585",
+      "https://docs.slack.dev/reference/methods/auth.test"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:23:52.211076+00:00",
+    "search_urls": [
+      "https://docs.slack.dev/authentication",
+      "https://x.com/SlackAPI/status/417806201636675585",
+      "https://docs.slack.dev/reference/methods/auth.test",
+      "https://docs.slack.dev",
+      "https://docs.slack.dev/authentication/installing-with-oauth",
+      "https://docs.n8n.io/integrations/builtin/credentials/slack",
+      "https://docs.celigo.com/hc/en-us/articles/7140655476507-How-to-create-an-app-and-retrieve-OAuth-token-in-Slack",
+      "https://medium.com/@hugolu87/how-to-properly-interact-with-slacks-api-the-slack-way-efbd74856991"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Twilio",
+    "category": "Communications and Messaging",
+    "website": "twilio.com",
+    "hint": "twilio.com",
+    "one_liner": "Twilio — Communications and Messaging (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://apitracker.io/a/twilio",
+      "https://www.twilio.com/docs",
+      "https://www.twilio.com/docs/iam/api"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:23:57.076787+00:00",
+    "search_urls": [
+      "https://apitracker.io/a/twilio",
+      "https://www.twilio.com/docs",
+      "https://www.twilio.com/docs/iam/api",
+      "https://www.twilio.com/en-us/user-authentication-identity/verify",
+      "https://www.twilio.com/docs/verify/api",
+      "https://www.twilio.com/docs/iam/oauth-apps/overview",
+      "https://www.twilio.com/docs/iam/api-keys",
+      "https://www.twilio.com/docs/iam/credentials/api"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Zoho Cliq",
+    "category": "Communications and Messaging",
+    "website": "zoho.com/cliq",
+    "hint": "zoho.com/cliq",
+    "one_liner": "Zoho Cliq — Communications and Messaging (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://www.zoho.com/cliq/help/platform/faq.html",
+      "https://www.zoho.com/cliq/help/restapi/v3/introduction",
+      "https://www.zoho.com/cliq/help/platform/getting-started-with-cliq-platform.html"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:24:05.204412+00:00",
+    "search_urls": [
+      "https://www.zoho.com/cliq/help/platform/faq.html",
+      "https://www.zoho.com/cliq/help/restapi/v3/introduction",
+      "https://www.zoho.com/cliq/help/platform/getting-started-with-cliq-platform.html",
+      "https://apitracker.io/a/zoho-cliq",
+      "https://www.zoho.com/cliq/help/restapi/v3/oauth",
+      "https://help.zoho.com/portal/en/community/topic/accessing-cliq-database-rest-api-through-a-direct-non-http-api",
+      "https://help.zoho.com/portal/en/community/topic/setting-up-the-api-key",
+      "https://www.zoho.com/cliq/help/restapi/v2/httpmethods"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Lark (Larksuite)",
+    "category": "Communications and Messaging",
+    "website": "open.larksuite.com",
+    "hint": "open.larksuite.com",
+    "one_liner": "Lark (Larksuite) — Communications and Messaging (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "token"
+    ],
+    "self_serve": "contact_sales",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "unknown",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "contact_sales gate",
+    "evidence_urls": [
+      "https://open.larksuite.com/document/home/introduction-to-scope-and-authorization/overview",
+      "https://open.larksuite.com/document/common-capabilities/sso/api/obtain-oauth-code",
+      "https://open.larksuite.com/document/ukTMukTMukTM/uMTNz4yM1MjLzUzM"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:24:12.206760+00:00",
+    "search_urls": [
+      "https://open.larksuite.com/document/home/introduction-to-scope-and-authorization/overview",
+      "https://open.larksuite.com/document/common-capabilities/sso/api/obtain-oauth-code",
+      "https://open.larksuite.com/document/ukTMukTMukTM/uMTNz4yM1MjLzUzM",
+      "https://open.larksuite.com/document/common-capabilities/sso/web-application-sso/web-app-overview?lang=en-US",
+      "https://www.larksuite.com/hc/en-US/articles/831091963734-overview-of-lark-developer",
+      "https://open.larksuite.com/document/ukTMukTMukTM/uITNz4iM1MjLyUzM",
+      "https://open.larksuite.com/document/server-docs/getting-started/authen-v1/api/request-authentication",
+      "https://open.larksuite.com"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Pumble",
+    "category": "Communications and Messaging",
+    "website": "pumble.com",
+    "hint": "pumble.com",
+    "one_liner": "Pumble — Communications and Messaging (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://relevanceai.com/integrations/pumble",
+      "https://mindcloud.co/docs/universal/rest/pumble/0.0.5/introduction/getting-started",
+      "https://pumble.com/help/integrations/automation-workflow-integrations/api-keys-integration"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:24:17.015969+00:00",
+    "search_urls": [
+      "https://relevanceai.com/integrations/pumble",
+      "https://mindcloud.co/docs/universal/rest/pumble/0.0.5/introduction/getting-started",
+      "https://pumble.com/help/integrations/automation-workflow-integrations/api-keys-integration",
+      "https://apps.make.com/pumble-zqpuu6",
+      "https://github.com/mindcloud-inc/universal-api-reference/blob/main/apis/p/pumble/universal-api/authentication.md",
+      "https://pumble.com/help/workspace-administration/workspace-settings/single-sign-on-sso"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Discord",
+    "category": "Communications and Messaging",
+    "website": "discord.com",
+    "hint": "discord.com",
+    "one_liner": "Discord — Communications and Messaging (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://docs.discord.com/developers/topics/oauth2",
+      "https://w3.framtida.no/framtida-news/discord-developer-portal-your-ultimate-guide-1767647958",
+      "https://apitracker.io/a/discord"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:24:21.685244+00:00",
+    "search_urls": [
+      "https://docs.discord.com/developers/topics/oauth2",
+      "https://w3.framtida.no/framtida-news/discord-developer-portal-your-ultimate-guide-1767647958",
+      "https://apitracker.io/a/discord",
+      "https://www.youtube.com/watch?v=WgyCcXotReU",
+      "https://github.com/discord/discord-api-docs",
+      "https://docs.discord.food/topics/oauth2",
+      "https://www.miniorange.com/atlassian/rest-api-authentication-using-discord-as-oauth-provider",
+      "https://discord.js.org/docs/packages/core/main/OAuth2API:Class"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Telegram",
+    "category": "Communications and Messaging",
+    "website": "core.telegram.org",
+    "hint": "core.telegram.org",
+    "one_liner": "Telegram — Communications and Messaging (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key"
+    ],
+    "self_serve": "contact_sales",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "contact_sales gate",
+    "evidence_urls": [
+      "https://core.telegram.org/api/auth",
+      "https://core.telegram.org/gateway/verification-tutorial",
+      "https://core.telegram.org/widgets/login"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:24:26.333300+00:00",
+    "search_urls": [
+      "https://core.telegram.org/api/auth",
+      "https://core.telegram.org/gateway/verification-tutorial",
+      "https://core.telegram.org/widgets/login",
+      "https://core.telegram.org",
+      "https://core.telegram.org/bots/api",
+      "https://github.com/DRSchlaubi/telegram-oauth",
+      "https://core.telegram.org/api/url-authorization",
+      "https://stackoverflow.com/questions/43291868/where-to-find-the-telegram-api-key"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "WhatsApp Business",
+    "category": "Communications and Messaging",
+    "website": "developers.facebook.com/docs/whatsapp",
+    "hint": "developers.facebook.com/docs/whatsapp",
+    "one_liner": "WhatsApp Business — Communications and Messaging (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://cloud-api.azure.tsu.edu",
+      "https://www.interakt.shop/whatsapp-business-api/documentation/complete-guide",
+      "https://gurusup.com/blog/whatsapp-api-developers"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:24:30.304840+00:00",
+    "search_urls": [
+      "https://cloud-api.azure.tsu.edu",
+      "https://www.interakt.shop/whatsapp-business-api/documentation/complete-guide",
+      "https://gurusup.com/blog/whatsapp-api-developers",
+      "https://developers.facebook.com/documentation/business-messaging/whatsapp/get-started",
+      "https://developers.facebook.com/documentation/business-messaging/whatsapp/overview",
+      "https://www.youtube.com/watch?v=2C99NvvOg_k",
+      "https://developers.facebook.com/documentation/business-messaging/whatsapp/about-the-platform",
+      "https://developers.facebook.com/documentation/business-messaging/whatsapp/reference/whatsapp-business-account/whatsapp-business-account-api"
+    ],
+    "verified_at": "2026-08-17T13:40:19.171088+00:00",
+    "verification_overall": "unverifiable"
+  },
+  {
+    "id": 29,
+    "name": "Aircall",
+    "category": "Communications and Messaging",
+    "website": "aircall.io",
+    "hint": "aircall.io",
+    "one_liner": "Aircall — Communications and Messaging (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://pipeline.zoominfo.com/sales/aircall-api-review",
+      "https://developer.aircall.io/docs/introduction",
+      "https://developers.aircall.io/api-references"
+    ],
+    "confidence": 0.65,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:24:34.268924+00:00",
+    "search_urls": [
+      "https://pipeline.zoominfo.com/sales/aircall-api-review",
+      "https://developer.aircall.io/docs/introduction",
+      "https://developers.aircall.io/api-references",
+      "https://apitracker.io/a/aircall",
+      "https://apis.io/providers/aircall",
+      "https://www.stitchflow.com/user-management/aircall/api",
+      "https://dlthub.com/context/source/aircall",
+      "https://cdn.cdata.com/help/FAK/api/aircall/pg_connectionprofile.htm"
+    ],
+    "verified_at": "2026-08-17T13:40:01.189394+00:00",
+    "verification_overall": "partial"
+  },
+  {
+    "id": 30,
+    "name": "Vonage",
+    "category": "Communications and Messaging",
+    "website": "developer.vonage.com",
+    "hint": "developer.vonage.com",
+    "one_liner": "Vonage — Communications and Messaging (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "contact_sales",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "contact_sales gate",
+    "evidence_urls": [
+      "https://developer.vonage.com/en/verify/concepts/authentication",
+      "https://developer.vonage.com/en/getting-started/concepts/authentication",
+      "https://developer.vonage.com/en/home"
+    ],
+    "confidence": 0.65,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:24:38.297209+00:00",
+    "search_urls": [
+      "https://developer.vonage.com/en/verify/concepts/authentication",
+      "https://developer.vonage.com/en/getting-started/concepts/authentication",
+      "https://developer.vonage.com/en/home",
+      "https://github.com/vonage/vonage-node-sdk",
+      "https://www.vonage.com/communications-apis/verify/features/silent-authentication",
+      "https://tokbox.com/developer/rest",
+      "https://developer.vonage.com/en/auth/camara"
+    ],
+    "verified_at": "2026-08-17T13:40:21.194031+00:00",
+    "verification_overall": "partial"
+  },
+  {
+    "id": 31,
+    "name": "Google Ads",
+    "category": "Marketing, Ads, Email and Social",
+    "website": "developers.google.com/google-ads",
+    "hint": "developers.google.com/google-ads",
+    "one_liner": "Google Ads — Marketing, Ads, Email and Social (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://developers.google.com/google-ads/api/docs/reach-forecasting/authentication",
+      "https://www.youtube.com/watch?v=EGXilq5i42M",
+      "https://github.com/google/ads-api-report-fetcher/blob/main/docs/how-to-authenticate-ads-api.md"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:24:42.152385+00:00",
+    "search_urls": [
+      "https://developers.google.com/google-ads/api/docs/reach-forecasting/authentication",
+      "https://www.youtube.com/watch?v=EGXilq5i42M",
+      "https://github.com/google/ads-api-report-fetcher/blob/main/docs/how-to-authenticate-ads-api.md",
+      "https://developers.google.com/google-ads/api/docs/oauth/overview",
+      "https://groups.google.com/g/adwords-api/c/E1Of6-B7cBo",
+      "https://vishalzambre.com/tech/2025/07/16/google-ads-api-client-secret-refresh-token.html",
+      "https://groups.google.com/g/adwords-api/c/segYVhl4V-E",
+      "https://developers.google.com/google-ads/api/docs/api-policy/developer-token"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Meta Ads",
+    "category": "Marketing, Ads, Email and Social",
+    "website": "developers.facebook.com/docs/marketing-apis",
+    "hint": "developers.facebook.com/docs/marketing-apis",
+    "one_liner": "Meta Ads — Marketing, Ads, Email and Social (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://developers.facebook.com/documentation/ads-commerce/marketing-api/get-started/authentication",
+      "https://admanage.ai/blog/meta-ads-api",
+      "https://windsor.ai/guide-to-facebook-meta-ads-api"
+    ],
+    "confidence": 0.65,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:24:46.688634+00:00",
+    "search_urls": [
+      "https://developers.facebook.com/documentation/ads-commerce/marketing-api/get-started/authentication",
+      "https://admanage.ai/blog/meta-ads-api",
+      "https://windsor.ai/guide-to-facebook-meta-ads-api",
+      "https://github.com/emeraldtarek/meta-ads-api-docs-md",
+      "https://www.youtube.com/watch?v=to4uTxSNo6Q",
+      "https://developers.facebook.com/documentation/ads-commerce/marketing-api",
+      "https://www.adamigo.ai/blog/meta-ads-api-key-creation-workflow-explained",
+      "https://developers.facebook.com/documentation/ads-commerce/marketing-api/get-started"
+    ],
+    "verified_at": "2026-08-17T13:39:59.654549+00:00",
+    "verification_overall": "correct"
+  },
+  {
+    "id": 33,
+    "name": "LinkedIn Ads",
+    "category": "Marketing, Ads, Email and Social",
+    "website": "learn.microsoft.com/linkedin/marketing",
+    "hint": "learn.microsoft.com/linkedin/marketing",
+    "one_liner": "LinkedIn Ads — Marketing, Ads, Email and Social (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "token"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://www.stitchflow.com/user-management/linkedin-ads/api",
+      "https://learn.microsoft.com/en-us/linkedin/shared/authentication/getting-access",
+      "https://blog.closelyhq.com/linkedin-api-for-developers-what-you-can-and-cant-do"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:24:50.685068+00:00",
+    "search_urls": [
+      "https://www.stitchflow.com/user-management/linkedin-ads/api",
+      "https://learn.microsoft.com/en-us/linkedin/shared/authentication/getting-access",
+      "https://blog.closelyhq.com/linkedin-api-for-developers-what-you-can-and-cant-do",
+      "https://developer.linkedin.com",
+      "https://learn.microsoft.com/en-us/linkedin/marketing?view=li-lms-2026-07",
+      "https://learn.microsoft.com/en-us/linkedin/marketing/integrations/ads-reporting/conversions-api?view=li-lms-2026-07",
+      "https://learn.microsoft.com/en-us/linkedin",
+      "https://learn.microsoft.com/en-us/linkedin/marketing/integrations/recent-changes?view=li-lms-2026-06"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "GoHighLevel",
+    "category": "Marketing, Ads, Email and Social",
+    "website": "highlevel.stoplight.io",
+    "hint": "highlevel.stoplight.io",
+    "one_liner": "GoHighLevel — Marketing, Ads, Email and Social (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://help.gohighlevel.com/support/solutions/articles/48001060529-highlevel-api-documentation",
+      "https://help.gohighlevel.com/support/solutions/articles/155000000136-how-to-get-started-with-the-developer-s-marketplace",
+      "https://marketplace.gohighlevel.com/docs"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:24:54.667929+00:00",
+    "search_urls": [
+      "https://help.gohighlevel.com/support/solutions/articles/48001060529-highlevel-api-documentation",
+      "https://help.gohighlevel.com/support/solutions/articles/155000000136-how-to-get-started-with-the-developer-s-marketplace",
+      "https://marketplace.gohighlevel.com/docs",
+      "https://marketplace.gohighlevel.com/docs/Authorization/DeveloperGlossary",
+      "https://marketplace.gohighlevel.com/docs/2021-04-15/oauth/ExternalAuthentication",
+      "https://github.com/M2KDevelopments/gohighlevel",
+      "https://community.make.com/t/go-high-level-api-2-0-upgrade/29009"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Mailchimp",
+    "category": "Marketing, Ads, Email and Social",
+    "website": "mailchimp.com/developer",
+    "hint": "mailchimp.com/developer",
+    "one_liner": "Mailchimp — Marketing, Ads, Email and Social (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "GraphQL",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://mailchimp.com/developer/marketing/docs/fundamentals",
+      "https://endgrate.com/blog/using-the-mailchimp-api-to-get-members-(with-javascript-examples)",
+      "https://apitracker.io/a/mailchimp"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:24:58.585079+00:00",
+    "search_urls": [
+      "https://mailchimp.com/developer/marketing/docs/fundamentals",
+      "https://endgrate.com/blog/using-the-mailchimp-api-to-get-members-(with-javascript-examples)",
+      "https://apitracker.io/a/mailchimp",
+      "https://mailchimp.com/developer/marketing/guides/access-user-data-oauth-2",
+      "https://mailchimp.com/developer/marketing",
+      "https://www.youtube.com/watch?v=7AlPMGdrdX4"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Klaviyo",
+    "category": "Marketing, Ads, Email and Social",
+    "website": "developers.klaviyo.com",
+    "hint": "developers.klaviyo.com",
+    "one_liner": "Klaviyo — Marketing, Ads, Email and Social (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key"
+    ],
+    "self_serve": "contact_sales",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "contact_sales gate",
+    "evidence_urls": [
+      "https://developers.klaviyo.com/en/reference/api_overview",
+      "https://developers.klaviyo.com",
+      "https://developers.klaviyo.com/en/docs/authenticate_"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:25:02.436983+00:00",
+    "search_urls": [
+      "https://developers.klaviyo.com/en/reference/api_overview",
+      "https://developers.klaviyo.com",
+      "https://developers.klaviyo.com/en/docs/authenticate_",
+      "https://community.make.com/t/help-with-klaviyo-api-authenticate/12246",
+      "https://endgrate.com/blog/using-the-klaviyo-api-to-create-or-update-profiles-(with-php-examples)",
+      "https://developers.klaviyo.com/en/docs/set_up_oauth",
+      "https://community.klaviyo.com/developer-group-64/oauth-replacing-api-keys-16376",
+      "https://developers.klaviyo.com/en/v1-2/reference/api-overview"
+    ],
+    "verified_at": "2026-08-17T13:39:57.711450+00:00",
+    "verification_overall": "unverifiable"
+  },
+  {
+    "id": 37,
+    "name": "systeme.io",
+    "category": "Marketing, Ads, Email and Social",
+    "website": "systeme.io",
+    "hint": "systeme.io (funnel builder)",
+    "one_liner": "systeme.io — Marketing, Ads, Email and Social (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key"
+    ],
+    "self_serve": "paid_plan",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://help.systeme.io/article/2323-how-to-use-systeme-io-public-api",
+      "https://rollout.com/integration-guides/systeme.io/sdk/step-by-step-guide-to-building-a-systeme.io-api-integration-in-php",
+      "https://www.youtube.com/watch?v=r9CUU5uEXE4"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:25:06.372396+00:00",
+    "search_urls": [
+      "https://help.systeme.io/article/2323-how-to-use-systeme-io-public-api",
+      "https://rollout.com/integration-guides/systeme.io/sdk/step-by-step-guide-to-building-a-systeme.io-api-integration-in-php",
+      "https://www.youtube.com/watch?v=r9CUU5uEXE4",
+      "https://apix-drive.com/en/systeme-io-api",
+      "https://latenode.com/integrations/systeme-io",
+      "https://thatmarketingbuddy.com/software/systeme-io",
+      "https://webflow.com/integrations/systeme-io",
+      "https://readme.anytrack.io/docs/systemeio"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Pinterest",
+    "category": "Marketing, Ads, Email and Social",
+    "website": "developers.pinterest.com",
+    "hint": "developers.pinterest.com",
+    "one_liner": "Pinterest — Marketing, Ads, Email and Social (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "trial",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://developers.pinterest.com/docs/getting-started/set-up-authentication-and-authorization",
+      "https://github.com/pinterest/api-quickstart",
+      "https://community.pinterest.biz/t/frequently-asked-questions-pinterest-api/2083"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:25:10.228944+00:00",
+    "search_urls": [
+      "https://developers.pinterest.com/docs/getting-started/set-up-authentication-and-authorization",
+      "https://github.com/pinterest/api-quickstart",
+      "https://community.pinterest.biz/t/frequently-asked-questions-pinterest-api/2083",
+      "https://medium.com/@wertster/accessing-the-pinterest-v5-api-as-a-back-end-confidential-client-52481384bc13",
+      "https://www.youtube.com/watch?v=4MSGXHtcpsM",
+      "https://zernio.com/pinterest",
+      "https://github.com/pinterest/api-quickstart/blob/main/README.md",
+      "https://developers.pinterest.com/docs/getting-started/connect-app"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Threads (Meta)",
+    "category": "Marketing, Ads, Email and Social",
+    "website": "developers.facebook.com/docs/threads",
+    "hint": "developers.facebook.com/docs/threads",
+    "one_liner": "Threads (Meta) — Marketing, Ads, Email and Social (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "unknown",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://zernio.com/blog/threads-api",
+      "https://blog.disane.dev/en/threads-api-is-here",
+      "https://developers.facebook.com/documentation/threads/get-started"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:25:14.161116+00:00",
+    "search_urls": [
+      "https://zernio.com/blog/threads-api",
+      "https://blog.disane.dev/en/threads-api-is-here",
+      "https://developers.facebook.com/documentation/threads/get-started",
+      "https://note.com/youpapalife/n/ne22b0e34ad1a?hl=en",
+      "https://developers.facebook.com/documentation/threads",
+      "https://thraads.com/api",
+      "https://bundle.social/threads-api",
+      "https://developers.facebook.com/blog/post/2024/06/18/the-threads-api-is-finally-here"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "SendGrid",
+    "category": "Marketing, Ads, Email and Social",
+    "website": "sendgrid.com",
+    "hint": "sendgrid.com",
+    "one_liner": "SendGrid — Marketing, Ads, Email and Social (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "trial",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://providers.apis.io/providers/sendgrid",
+      "https://www.twilio.com/docs/sendgrid/for-developers/sending-email/authentication",
+      "https://docs.matillion.com/metl/docs/0964835"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:25:18.029817+00:00",
+    "search_urls": [
+      "https://providers.apis.io/providers/sendgrid",
+      "https://www.twilio.com/docs/sendgrid/for-developers/sending-email/authentication",
+      "https://docs.matillion.com/metl/docs/0964835",
+      "https://www.twilio.com/docs/sendgrid/api-reference/how-to-use-the-sendgrid-v3-api/authentication",
+      "https://learn.microsoft.com/azure/databricks/ingestion/lakeflow-connect/sendgrid-source-setup",
+      "https://developers.frontegg.com/agen-for-work/connectors/marketplace/sendgrid",
+      "https://www.twilio.com/docs/sendgrid/ui/account-and-settings/api-keys",
+      "https://www.twilio.com/en-us/products/email-api"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Shopify",
+    "category": "Ecommerce",
+    "website": "shopify.dev",
+    "hint": "shopify.dev",
+    "one_liner": "Shopify — Ecommerce (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "GraphQL",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://blog.storecensus.com/shopify-api-authentication-best-practices",
+      "https://shopify.dev/docs/apps/build/authentication-authorization",
+      "https://shopify.dev/docs/api/usage/authentication"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:25:21.880008+00:00",
+    "search_urls": [
+      "https://blog.storecensus.com/shopify-api-authentication-best-practices",
+      "https://shopify.dev/docs/apps/build/authentication-authorization",
+      "https://shopify.dev/docs/api/usage/authentication",
+      "https://community.shopify.com/t/custom-authentication-how-to-create-a-shopify-session-via-api/272278",
+      "https://www.youtube.com/watch?v=8dymQjcylv8",
+      "https://community.shopify.com/t/admin-api-key-for-personal-use-devtools-not-showing-it-as-documentation-says/581876",
+      "https://community.shopify.com/t/how-to-get-shopify-access-token-sent-to-dev-dashboard/573988",
+      "https://community.shopify.com/t/where-can-i-find-my-api-key-of-my-shopify-app/6684"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "WooCommerce",
+    "category": "Ecommerce",
+    "website": "woocommerce.com",
+    "hint": "woocommerce.com/document/woocommerce-rest-api",
+    "one_liner": "WooCommerce — Ecommerce (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://developer.woocommerce.com/docs/apis/rest-api/authentication",
+      "https://developer.woocommerce.com/docs/apis/dual-api/authentication-and-authorization",
+      "https://developer.woocommerce.com/docs/apis/rest-api"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:25:25.761502+00:00",
+    "search_urls": [
+      "https://developer.woocommerce.com/docs/apis/rest-api/authentication",
+      "https://developer.woocommerce.com/docs/apis/dual-api/authentication-and-authorization",
+      "https://developer.woocommerce.com/docs/apis/rest-api",
+      "https://www.damiencarbery.com/2019/06/woocommerce-rest-api-authentication",
+      "https://github.com/woocommerce/woocommerce-rest-api-docs/blob/master/source/includes/v3/_authentication-endpoint.md",
+      "https://woocommerce.com/document/woocommerce-rest-api",
+      "https://www.npmjs.com/package/@woocommerce/woocommerce-rest-api",
+      "https://woocommerce.github.io/woocommerce-rest-api-docs/v3.html"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "BigCommerce",
+    "category": "Ecommerce",
+    "website": "developer.bigcommerce.com",
+    "hint": "developer.bigcommerce.com",
+    "one_liner": "BigCommerce — Ecommerce (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://docs.bigcommerce.com/developer/docs/overview/api-fundamentals/api-accounts",
+      "https://api2cart.com/api-technology/bigcommerce-developer-api",
+      "https://docs.bigcommerce.com"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:25:29.580751+00:00",
+    "search_urls": [
+      "https://docs.bigcommerce.com/developer/docs/overview/api-fundamentals/api-accounts",
+      "https://api2cart.com/api-technology/bigcommerce-developer-api",
+      "https://docs.bigcommerce.com",
+      "https://www.youtube.com/watch?v=H8tK02T_hJs",
+      "https://docs.bigcommerce.com/developer/api-reference/about-our-apis",
+      "https://api2cart.com/api-technology/a-foreword-to-bigcommerce-api",
+      "https://ecommerce.folio3.com/blog/bigcommerce-product-api",
+      "https://docs.bigcommerce.com/developer/docs/integrations/apps/guide/auth"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Salesforce Commerce Cloud",
+    "category": "Ecommerce",
+    "website": "developer.salesforce.com/docs/commerce",
+    "hint": "developer.salesforce.com/docs/commerce",
+    "one_liner": "Salesforce Commerce Cloud — Ecommerce (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://apitracker.io/a/salesforce-commerce-cloud",
+      "https://developer.salesforce.com/docs/commerce/commerce-api/guide/authorization.html",
+      "https://rhino-inquisitor.com/salesforce-b2c-commerce-cloud-documentation"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:25:33.431111+00:00",
+    "search_urls": [
+      "https://apitracker.io/a/salesforce-commerce-cloud",
+      "https://developer.salesforce.com/docs/commerce/commerce-api/guide/authorization.html",
+      "https://rhino-inquisitor.com/salesforce-b2c-commerce-cloud-documentation",
+      "https://github.com/salesforcecommercecloud/commerce-sdk",
+      "https://trailhead.salesforce.com/trailblazer-community/feed/0D54S00000GelJ3SAJ",
+      "https://developer.salesforce.com/docs/commerce/b2c-commerce/references/b2c-commerce-ocapi/oauth.html",
+      "https://ecommerce.folio3.com/blog/salesforce-commerce-cloud-api-integration",
+      "https://developer.salesforce.com/docs/platform/connect-rest-api/guide/intro_using_oauth.html"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Magento (Adobe Commerce)",
+    "category": "Ecommerce",
+    "website": "developer.adobe.com/commerce",
+    "hint": "developer.adobe.com/commerce",
+    "one_liner": "Magento (Adobe Commerce) — Ecommerce (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://developer.adobe.com/commerce/webapi/rest/reference",
+      "https://developer.adobe.com/commerce/webapi/rest",
+      "https://github.com/api-evangelist/magento"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:25:37.261353+00:00",
+    "search_urls": [
+      "https://developer.adobe.com/commerce/webapi/rest/reference",
+      "https://developer.adobe.com/commerce/webapi/rest",
+      "https://github.com/api-evangelist/magento",
+      "https://providers.apis.io/providers/adobe-commerce",
+      "https://developer.adobe.com/commerce/docs",
+      "https://stackoverflow.com/questions/79474317/how-to-authenticate-to-adobe-commerce-rest-apis-with-oauth-1-0a-using-integratio",
+      "https://developer.cybersource.com/technology-partners/Adobe-REST.html",
+      "https://developer.adobe.com/commerce/webapi/reference/rest/paas"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Squarespace",
+    "category": "Ecommerce",
+    "website": "developers.squarespace.com",
+    "hint": "developers.squarespace.com",
+    "one_liner": "Squarespace — Ecommerce (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://developers.squarespace.com/commerce-apis/authentication-and-permissions",
+      "https://apix-drive.com/en/blog/other/squarespace-api-integration",
+      "https://developers.squarespace.com/commerce-apis/oauth"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:25:41.090533+00:00",
+    "search_urls": [
+      "https://developers.squarespace.com/commerce-apis/authentication-and-permissions",
+      "https://apix-drive.com/en/blog/other/squarespace-api-integration",
+      "https://developers.squarespace.com/commerce-apis/oauth",
+      "https://support.squarespace.com/hc/en-us/articles/236297987-Squarespace-API-keys",
+      "https://developers.squarespace.com"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Ecwid",
+    "category": "Ecommerce",
+    "website": "api-docs.ecwid.com",
+    "hint": "api-docs.ecwid.com",
+    "one_liner": "Ecwid — Ecommerce (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://api2cart.com/api-technology/ecwid-api",
+      "https://apitracker.io/a/ecwid",
+      "https://github.com/Ecwid/ecwid-api-docs/blob/master/includes/_add_to_cp.md"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:25:45.000995+00:00",
+    "search_urls": [
+      "https://api2cart.com/api-technology/ecwid-api",
+      "https://apitracker.io/a/ecwid",
+      "https://github.com/Ecwid/ecwid-api-docs/blob/master/includes/_add_to_cp.md",
+      "https://api2cart.com/ecwid-api",
+      "https://docs.ecwid.com/get-started/make-your-first-api-request",
+      "https://docs.ecwid.com/api-reference",
+      "https://mindcloud.co/docs/universal/rest/ecwid/0.0.7/introduction/authentication"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Gumroad",
+    "category": "Ecommerce",
+    "website": "gumroad.com/api",
+    "hint": "gumroad.com/api",
+    "one_liner": "Gumroad — Ecommerce (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://apitracker.io/a/gumroad",
+      "https://apis.io/providers/gumroad",
+      "https://rollout.com/integration-guides/gumroad/api-essentials"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:25:48.911617+00:00",
+    "search_urls": [
+      "https://apitracker.io/a/gumroad",
+      "https://apis.io/providers/gumroad",
+      "https://rollout.com/integration-guides/gumroad/api-essentials",
+      "https://gumroad.com/help/article/280-create-application-api",
+      "https://forum.ghost.org/t/display-gumroad-items-through-api/35942",
+      "https://www.youtube.com/watch?v=y3vtvmnw0sc",
+      "https://mindcloud.co/docs/universal/rest/gumroad/0.0.7/introduction/authentication",
+      "https://nocodeapi.com/docs/gumroad-api"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Amazon Selling Partner",
+    "category": "Ecommerce",
+    "website": "developer-docs.amazon.com/sp-api",
+    "hint": "developer-docs.amazon.com/sp-api",
+    "one_liner": "Amazon Selling Partner — Ecommerce (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "token"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://developer-docs.amazon/sp-api",
+      "https://sell.amazon.com/developers",
+      "https://docs.aws.amazon.com/prescriptive-guidance/latest/strategy-gen-ai-selling-partner-api/integrating-sp-api.html"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:25:52.775605+00:00",
+    "search_urls": [
+      "https://developer-docs.amazon/sp-api",
+      "https://sell.amazon.com/developers",
+      "https://docs.aws.amazon.com/prescriptive-guidance/latest/strategy-gen-ai-selling-partner-api/integrating-sp-api.html",
+      "https://developer-docs.amazon/sp-api/docs/connecting-to-the-selling-partner-api",
+      "https://developer-docs-amazon-shipping.readme.io/apis/docs/connecting-to-the-selling-partner-api",
+      "https://developer.amazonservices.com"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "fanbasis",
+    "category": "Ecommerce",
+    "website": "fanbasis.com",
+    "hint": "fanbasis.com",
+    "one_liner": "fanbasis — Ecommerce (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://emergent.sh/integrations/fanbasis",
+      "https://stackgo.io/integration/sales-crm/fanbasis",
+      "https://api.fanvue.com/docs/authentication/overview"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:25:56.132651+00:00",
+    "search_urls": [
+      "https://emergent.sh/integrations/fanbasis",
+      "https://stackgo.io/integration/sales-crm/fanbasis",
+      "https://api.fanvue.com/docs/authentication/overview",
+      "https://www.tarvent.com/integrations/fanbasis",
+      "https://www.fanbasis.com/enterprises",
+      "https://www.linkedin.com/posts/christinadodge_fanbasis-enterprise-payments-that-make-activity-7446934829348245504-bQEM",
+      "https://www.youtube.com/watch?v=PoldnKFeX_s",
+      "https://www.npmjs.com/package/@fanbasis/checkout-sdk"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "DataForSEO",
+    "category": "Data, SEO and Scraping",
+    "website": "docs.dataforseo.com",
+    "hint": "docs.dataforseo.com",
+    "one_liner": "DataForSEO — Data, SEO and Scraping (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://www.youtube.com/watch?v=xGipqUzNLfQ",
+      "https://nextgrowth.ai/dataforseo-api-guide",
+      "https://dataforseo.com/blog/a-kickstart-guide-to-using-dataforseo-apis"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:25:59.999180+00:00",
+    "search_urls": [
+      "https://www.youtube.com/watch?v=xGipqUzNLfQ",
+      "https://nextgrowth.ai/dataforseo-api-guide",
+      "https://dataforseo.com/blog/a-kickstart-guide-to-using-dataforseo-apis",
+      "https://www.youtube.com/watch?v=pYuxQLTCT0I",
+      "https://docs.dataforseo.com/v3/auth",
+      "https://dataforseo.com/blog/seo-api-reliability-and-uptime",
+      "https://dataforseo.com/help-center/how-to-authenticate-with-dataforseo-google-search-serp-api-api-key-setup-and-code-examples",
+      "https://mindcloud.co/docs/universal/rest/dataforseo/latest"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "SE Ranking",
+    "category": "Data, SEO and Scraping",
+    "website": "seranking.com/api",
+    "hint": "seranking.com/api",
+    "one_liner": "SE Ranking — Data, SEO and Scraping (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "paid_plan",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://seranking.com/api/integrations/mcp",
+      "https://seranking.com/api/integrations/n8n",
+      "https://docs.paywint.com/authentication"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:26:03.897767+00:00",
+    "search_urls": [
+      "https://seranking.com/api/integrations/mcp",
+      "https://seranking.com/api/integrations/n8n",
+      "https://docs.paywint.com/authentication",
+      "https://tradexapp.io/api-documentation/authentication",
+      "https://developers.arcgis.com/documentation/glossary/api-key-authentication",
+      "https://seranking.com/api/data/getting-started",
+      "https://www.riffanalytics.ai/blog/se-ranking-api",
+      "https://seranking.com/api.html"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Ahrefs",
+    "category": "Data, SEO and Scraping",
+    "website": "ahrefs.com/api",
+    "hint": "ahrefs.com/api",
+    "one_liner": "Ahrefs — Data, SEO and Scraping (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://aicontentfy.com/en/blog/everything-you-need-to-know-about-ahrefs-api-documentation",
+      "https://apitracker.io/a/ahrefs",
+      "https://docs.ahrefs.com/en/ahrefs-connect/docs/api-guide"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:26:07.758941+00:00",
+    "search_urls": [
+      "https://aicontentfy.com/en/blog/everything-you-need-to-know-about-ahrefs-api-documentation",
+      "https://apitracker.io/a/ahrefs",
+      "https://docs.ahrefs.com/en/ahrefs-connect/docs/api-guide",
+      "https://seobotai.com/blog/ahrefs-api-alternatives",
+      "https://docs.ahrefs.com",
+      "https://thatmarketingbuddy.com/api/ahrefs",
+      "https://www.stitchflow.com/user-management/ahrefs/api",
+      "https://docs.ahrefs.com/en/api/docs/api-keys-creation-and-management"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "MrScraper",
+    "category": "Data, SEO and Scraping",
+    "website": "docs.mrscraper.com",
+    "hint": "docs.mrscraper.com",
+    "one_liner": "MrScraper — Data, SEO and Scraping (heuristic extract)",
+    "auth_methods": [
+      "API key"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://request.composio.dev/boards/tool-requests/posts/mrscraper",
+      "https://developers.oxylabs.io/products/web-scraper-api",
+      "https://www.scraperapi.com"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:26:11.630206+00:00",
+    "search_urls": [
+      "https://request.composio.dev/boards/tool-requests/posts/mrscraper",
+      "https://developers.oxylabs.io/products/web-scraper-api",
+      "https://www.scraperapi.com",
+      "https://mrscraper.com",
+      "https://developers.smartrecruiters.com/docs/authentication",
+      "https://docs.mrscraper.com/docs/api/overview",
+      "https://docs.mrscraper.com/docs/features/activating-api",
+      "https://docs.mrscraper.com/docs/api/authentication"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Apify",
+    "category": "Data, SEO and Scraping",
+    "website": "docs.apify.com",
+    "hint": "docs.apify.com",
+    "one_liner": "Apify — Data, SEO and Scraping (heuristic extract)",
+    "auth_methods": [
+      "token"
+    ],
+    "self_serve": "contact_sales",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "blocked",
+    "blocker": "contact_sales gate",
+    "evidence_urls": [
+      "https://docs.apify.com/api",
+      "https://docs.apify.com/api/v2",
+      "https://apify.com/pocesar/login-session/api"
+    ],
+    "confidence": 0.65,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:26:15.561794+00:00",
+    "search_urls": [
+      "https://docs.apify.com/api",
+      "https://docs.apify.com/api/v2",
+      "https://apify.com/pocesar/login-session/api",
+      "https://docs.apify.com",
+      "https://apify.com/aspiring_hypotenuse_ior/documentation-creation-toil/api",
+      "https://docs.apify.com/api/v2/getting-started",
+      "https://apify.com/riceman/send-http-requests/api",
+      "https://apify.com/pragmaticcoders/session-login-extractor/api"
+    ],
+    "verified_at": "2026-08-17T13:40:15.175248+00:00",
+    "verification_overall": "partial"
+  },
+  {
+    "id": 56,
+    "name": "Firecrawl",
+    "category": "Data, SEO and Scraping",
+    "website": "firecrawl.dev",
+    "hint": "firecrawl.dev",
+    "one_liner": "Firecrawl — Data, SEO and Scraping (heuristic extract)",
+    "auth_methods": [
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://zackproser.com/blog/firecrawl-api-guide-2026",
+      "https://docs.firecrawl.dev/api-reference/v2-introduction",
+      "https://docs.firecrawl.dev/api-reference/introduction"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:26:19.416478+00:00",
+    "search_urls": [
+      "https://zackproser.com/blog/firecrawl-api-guide-2026",
+      "https://docs.firecrawl.dev/api-reference/v2-introduction",
+      "https://docs.firecrawl.dev/api-reference/introduction",
+      "https://docs.firecrawl.dev/introduction",
+      "https://www.firecrawl.dev/blog",
+      "https://github.com/firecrawl/firecrawl",
+      "https://www.youtube.com/watch?v=Vpittr6tBrk",
+      "https://www.firecrawl.dev?ref=tomcw.xyz"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Bright Data",
+    "category": "Data, SEO and Scraping",
+    "website": "brightdata.com",
+    "hint": "brightdata.com",
+    "one_liner": "Bright Data — Data, SEO and Scraping (heuristic extract)",
+    "auth_methods": [
+      "API key",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://docs.brightdata.com/api-reference/authentication",
+      "https://apis.io/apis/bright-data/bright-data-unlock-api",
+      "https://github.com/api-evangelist/bright-data"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:26:23.272199+00:00",
+    "search_urls": [
+      "https://docs.brightdata.com/api-reference/authentication",
+      "https://apis.io/apis/bright-data/bright-data-unlock-api",
+      "https://github.com/api-evangelist/bright-data",
+      "https://github.com/brightdata/skills/blob/main/skills/bright-data-best-practices/references/browser-api.md",
+      "https://docs.brightdata.com/introduction",
+      "https://docs.brightdata.com/scraping-automation/serp-api/send-your-first-request",
+      "https://docs.brightdata.com/scraping-automation/web-unlocker/send-your-first-request",
+      "https://docs.brightdata.com/api-reference/marketplace-dataset-api/get-dataset-list"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Sherlock",
+    "category": "Data, SEO and Scraping",
+    "website": "github.com/sherlock-project/sherlock",
+    "hint": "github.com/sherlock-project/sherlock",
+    "one_liner": "Sherlock — Data, SEO and Scraping (heuristic extract)",
+    "auth_methods": [
+      "API key"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://sher-lock.readthedocs.io/en/latest/api_documentation.html",
+      "https://developer.metro-selleroffice.com/docs/authentication",
+      "https://github.com/sherlock-project/api"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:26:27.336420+00:00",
+    "search_urls": [
+      "https://sher-lock.readthedocs.io/en/latest/api_documentation.html",
+      "https://developer.metro-selleroffice.com/docs/authentication",
+      "https://github.com/sherlock-project/api",
+      "https://apify.com/misceres/sherlock/api",
+      "https://developer.ansys.com/docs/sherlock-apis-2025-r2/getting-started.md",
+      "https://github.com/bellingcat/toolkit/blob/main/gitbook/tools/sherlock/README.md",
+      "https://github.com/topics/sherlock-project",
+      "https://github.com/sherlock-project/sherlock/issues/129"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Waterfall.io",
+    "category": "Data, SEO and Scraping",
+    "website": "waterfall.io",
+    "hint": "waterfall.io (contact/company intel)",
+    "one_liner": "Waterfall.io — Data, SEO and Scraping (heuristic extract)",
+    "auth_methods": [
+      "API key"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "unknown",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://docs.waterfall.io/v1/introduction",
+      "https://www.waterfall.io",
+      "https://keploy.io/blog/community/waterfall-api-a-comprehensive-guide"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:26:32.231588+00:00",
+    "search_urls": [
+      "https://docs.waterfall.io/v1/introduction",
+      "https://www.waterfall.io",
+      "https://keploy.io/blog/community/waterfall-api-a-comprehensive-guide",
+      "https://docs.waterfall.io/v1/errors",
+      "https://www.linkedin.com/company/waterfall-io",
+      "https://docs.apollo.io/docs/enrich-phone-and-email-using-data-waterfall",
+      "https://help.diligentoneplatform.com/helpdocs/equity/Content/equity/diligent_equity_api/waterfall.htm"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Clay",
+    "category": "Data, SEO and Scraping",
+    "website": "clay.com",
+    "hint": "clay.com",
+    "one_liner": "Clay — Data, SEO and Scraping (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "GraphQL",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://apitracker.io/a/clay-run",
+      "https://pipeline.zoominfo.com/sales/clay-api",
+      "https://university.clay.com/docs/http-api-integration-overview"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:26:39.805092+00:00",
+    "search_urls": [
+      "https://apitracker.io/a/clay-run",
+      "https://pipeline.zoominfo.com/sales/clay-api",
+      "https://university.clay.com/docs/http-api-integration-overview",
+      "https://www.youtube.com/watch?v=uD4Aidlm2Gs",
+      "https://docs.linkup.so/pages/integrations/clay/clay",
+      "https://university.clay.com/docs/guide-find-clay-api-key",
+      "https://www.youtube.com/watch?v=_FV_Ym9O2Qc"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "GitHub",
+    "category": "Developer, Infra and Data platforms",
+    "website": "docs.github.com/rest",
+    "hint": "docs.github.com/rest",
+    "one_liner": "GitHub — Developer, Infra and Data platforms (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://notes.kodekloud.com/docs/AZ-400-Designing-and-Implementing-Microsoft-DevOps-Solutions/Design-and-Implement-Authentication-and-Authorization-Methods/Implement-and-manage-GitHub-Authentication/page",
+      "https://github.blog/news-insights/company-news/token-authentication-requirements-for-api-and-git-operations",
+      "https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:26:45.517534+00:00",
+    "search_urls": [
+      "https://notes.kodekloud.com/docs/AZ-400-Designing-and-Implementing-Microsoft-DevOps-Solutions/Design-and-Implement-Authentication-and-Authorization-Methods/Implement-and-manage-GitHub-Authentication/page",
+      "https://github.blog/news-insights/company-news/token-authentication-requirements-for-api-and-git-operations",
+      "https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens",
+      "https://docs.github.com/rest/quickstart",
+      "https://www.youtube.com/watch?v=5sMfFys_Cgg",
+      "https://docs.github.com/en/rest/apps/oauth-applications",
+      "https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authenticating-to-the-rest-api-with-an-oauth-app",
+      "https://docs.github.com/rest/repos/contents"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Vercel",
+    "category": "Developer, Infra and Data platforms",
+    "website": "vercel.com/docs/rest-api",
+    "hint": "vercel.com/docs/rest-api",
+    "one_liner": "Vercel — Developer, Infra and Data platforms (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://apitracker.io/a/vercel",
+      "https://vercel.com/docs/rest-api",
+      "https://vercel.com/docs/sandbox/concepts/authentication"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:26:52.398850+00:00",
+    "search_urls": [
+      "https://apitracker.io/a/vercel",
+      "https://vercel.com/docs/rest-api",
+      "https://vercel.com/docs/sandbox/concepts/authentication",
+      "https://vercel.com/docs/cli/api",
+      "https://vercel.com/docs/ai-gateway/authentication-and-byok",
+      "https://vercel.com/kb/guide/how-do-i-use-a-vercel-api-access-token",
+      "https://vercel.com/docs/rest-api/sdk",
+      "https://vercel.com/docs/functions/functions-api-reference"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Netlify",
+    "category": "Developer, Infra and Data platforms",
+    "website": "docs.netlify.com/api",
+    "hint": "docs.netlify.com/api",
+    "one_liner": "Netlify — Developer, Infra and Data platforms (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://www.netlify.com/blog/2021/11/17/first-look-announcing-api-authentication-on-netlify",
+      "https://open-api.netlify.com",
+      "https://answers.netlify.com/t/what-is-netlify-api-authentication-in-netlify-labs/47481"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:27:00.021291+00:00",
+    "search_urls": [
+      "https://www.netlify.com/blog/2021/11/17/first-look-announcing-api-authentication-on-netlify",
+      "https://open-api.netlify.com",
+      "https://answers.netlify.com/t/what-is-netlify-api-authentication-in-netlify-labs/47481",
+      "https://docs.netlify.com/api-and-cli-guides/api-guides/get-started-with-api",
+      "https://docs.netlify.com/api-and-cli-guides/cli-guides/get-started-with-cli",
+      "https://answers.netlify.com/t/any-usage-documentation-for-the-oauth-api-endpoints/23863",
+      "https://answers.netlify.com/t/creating-the-oauth-api-via-public-rest-api/43159",
+      "https://developers.netlify.com/guides/generating-personal-access-tokens-with-netlify-oauth"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Cloudflare",
+    "category": "Developer, Infra and Data platforms",
+    "website": "developers.cloudflare.com/api",
+    "hint": "developers.cloudflare.com/api",
+    "one_liner": "Cloudflare — Developer, Infra and Data platforms (heuristic extract)",
+    "auth_methods": [
+      "API key"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://cfapi.centminmod.com",
+      "https://developers.cloudflare.com",
+      "https://developers.cloudflare.com/fundamentals/api/get-started"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:27:10.438929+00:00",
+    "search_urls": [
+      "https://cfapi.centminmod.com",
+      "https://developers.cloudflare.com",
+      "https://developers.cloudflare.com/fundamentals/api/get-started",
+      "https://developers.cloudflare.com/api",
+      "https://blog.cloudflare.com/building-a-better-developer-experience-through-api-documentation",
+      "https://developers.cloudflare.com/fundamentals/api/how-to/make-api-calls",
+      "https://developers.cloudflare.com/fundamentals/api/get-started/keys",
+      "https://developers.cloudflare.com/analytics/graphql-api/getting-started/authentication/api-key-auth"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Supabase",
+    "category": "Developer, Infra and Data platforms",
+    "website": "supabase.com/docs",
+    "hint": "supabase.com/docs",
+    "one_liner": "Supabase — Developer, Infra and Data platforms (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://supabase.com/docs/guides/auth",
+      "https://forum.plasmic.app/t/lack-of-auth-api-documentation-with-supabase/4970",
+      "https://supabase.com/docs/reference/javascript/v1"
+    ],
+    "confidence": 0.65,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:27:16.041481+00:00",
+    "search_urls": [
+      "https://supabase.com/docs/guides/auth",
+      "https://forum.plasmic.app/t/lack-of-auth-api-documentation-with-supabase/4970",
+      "https://supabase.com/docs/reference/javascript/v1",
+      "https://github.com/supabase/auth",
+      "https://supabase.com/docs/guides/getting-started/api-keys",
+      "https://supabase.com/docs/reference/api/introduction",
+      "https://supabase.com/docs/guides/api",
+      "https://supabase.com/docs/guides/api/creating-routes"
+    ],
+    "verified_at": "2026-08-17T13:40:22.714518+00:00",
+    "verification_overall": "partial"
+  },
+  {
+    "id": 66,
+    "name": "Neo4j",
+    "category": "Developer, Infra and Data platforms",
+    "website": "neo4j.com/docs/api",
+    "hint": "neo4j.com/docs/api",
+    "one_liner": "Neo4j — Developer, Infra and Data platforms (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://neo4j.com/docs/security-docs",
+      "https://neo4j.com/developer/kb/a-lightweight-approach-to-testing-the-neo4j-rest-api-with-authentication",
+      "https://neo4j.com/blog/developer/neo4j-rest-api-from-java-authentication-required"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:27:23.510934+00:00",
+    "search_urls": [
+      "https://neo4j.com/docs/security-docs",
+      "https://neo4j.com/developer/kb/a-lightweight-approach-to-testing-the-neo4j-rest-api-with-authentication",
+      "https://neo4j.com/blog/developer/neo4j-rest-api-from-java-authentication-required",
+      "https://neo4j.com/docs/graphql/current/aura-graphql/api-usage",
+      "https://developer.close.com/api/overview/api-key-authentication",
+      "https://apis.io/providers/neo4j",
+      "https://apis.apievangelist.com/store/neo4j-authentication-api",
+      "https://neo4j.com/docs/rest-docs/current"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Snowflake",
+    "category": "Developer, Infra and Data platforms",
+    "website": "docs.snowflake.com",
+    "hint": "docs.snowflake.com",
+    "one_liner": "Snowflake — Developer, Infra and Data platforms (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://docs.snowflake.com/en/user-guide/api-authentication",
+      "https://apitracker.io/a/snowflake",
+      "https://docs.snowflake.com/en/developer-guide/sql-api/authenticating"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:27:29.710543+00:00",
+    "search_urls": [
+      "https://docs.snowflake.com/en/user-guide/api-authentication",
+      "https://apitracker.io/a/snowflake",
+      "https://docs.snowflake.com/en/developer-guide/sql-api/authenticating",
+      "https://docs.snowflake.com/en/developer-guide/snowflake-rest-api/authentication",
+      "https://www.youtube.com/watch?v=i1fVfKz7ofM",
+      "https://docs.snowflake.com/en/sql-reference/external-functions-security",
+      "https://prrasad.medium.com/snowflake-using-oauth-2-0-dc4c44ff080a",
+      "https://docs.snowflake.com/en/user-guide/oauth-intro"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "MongoDB Atlas",
+    "category": "Developer, Infra and Data platforms",
+    "website": "mongodb.com/docs/atlas/api",
+    "hint": "mongodb.com/docs/atlas/api",
+    "one_liner": "MongoDB Atlas — Developer, Infra and Data platforms (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://www.mongodb.com/docs/api/doc/atlas-admin-api-v2",
+      "https://www.mongodb.com/company/blog/product-release-announcements/introducing-mongodb-atlas-service-accounts-via-oauth-2-0",
+      "https://www.geeksforgeeks.org/dbms/a-better-developer-experience-with-the-mongodb-atlas-data-api"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:27:36.610792+00:00",
+    "search_urls": [
+      "https://www.mongodb.com/docs/api/doc/atlas-admin-api-v2",
+      "https://www.mongodb.com/company/blog/product-release-announcements/introducing-mongodb-atlas-service-accounts-via-oauth-2-0",
+      "https://www.geeksforgeeks.org/dbms/a-better-developer-experience-with-the-mongodb-atlas-data-api",
+      "https://developer.hashicorp.com/vault/api-docs/secret/databases/mongodbatlas",
+      "https://www.mongodb.com/docs/api",
+      "https://www.mongodb.com/docs/atlas/government/api",
+      "https://docs.beyondtrust.com/entitle/docs/configuring-mongodb-atlas-api-key",
+      "https://www.mongodb.com/docs/atlas/api/api-authentication"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Datadog",
+    "category": "Developer, Infra and Data platforms",
+    "website": "docs.datadoghq.com/api",
+    "hint": "docs.datadoghq.com/api",
+    "one_liner": "Datadog — Developer, Infra and Data platforms (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://docs.datadoghq.com/api/latest/authentication",
+      "https://docs.gitguardian.com/secrets-detection/secrets-detection-engine/detectors/specifics/datadog_api_credentials",
+      "https://www.datadoghq.com/blog/datadog-api-authentication"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:27:42.707551+00:00",
+    "search_urls": [
+      "https://docs.datadoghq.com/api/latest/authentication",
+      "https://docs.gitguardian.com/secrets-detection/secrets-detection-engine/detectors/specifics/datadog_api_credentials",
+      "https://www.datadoghq.com/blog/datadog-api-authentication",
+      "https://docs.datadoghq.com/getting_started/api",
+      "https://docs.datadoghq.com/api/latest/metrics",
+      "https://docs.datadoghq.com/extend/integrations/api_integration",
+      "https://docs.datadoghq.com/api/latest",
+      "https://docs.datadoghq.com"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Sentry",
+    "category": "Developer, Infra and Data platforms",
+    "website": "docs.sentry.io/api",
+    "hint": "docs.sentry.io/api",
+    "one_liner": "Sentry — Developer, Infra and Data platforms (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://docs.sentry.io/api/auth",
+      "https://getsentry-sentry.mintlify.app/api/authentication",
+      "https://docs.sentry.io/api"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:27:50.819413+00:00",
+    "search_urls": [
+      "https://docs.sentry.io/api/auth",
+      "https://getsentry-sentry.mintlify.app/api/authentication",
+      "https://docs.sentry.io/api",
+      "https://github.com/getsentry/sentry-oauth-example",
+      "https://sentry.io",
+      "https://docs.sentry.io/api/guides/create-auth-token",
+      "https://develop.sentry.dev/sdk/foundations/transport/authentication",
+      "https://github.com/getsentry/sentry/blob/master/api-docs/openapi.json"
+    ],
+    "verified_at": "2026-08-17T13:40:08.434173+00:00",
+    "verification_overall": "unverifiable"
+  },
+  {
+    "id": 71,
+    "name": "Notion",
+    "category": "Productivity and Project Management",
+    "website": "developers.notion.com",
+    "hint": "developers.notion.com",
+    "one_liner": "Notion — Productivity and Project Management (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://developers.notion.com/guides/get-started/quick-start",
+      "https://github.com/Notion-API",
+      "https://developers.notion.com/guides/get-started/authorization"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:27:56.609894+00:00",
+    "search_urls": [
+      "https://developers.notion.com/guides/get-started/quick-start",
+      "https://github.com/Notion-API",
+      "https://developers.notion.com/guides/get-started/authorization",
+      "https://www.youtube.com/watch?v=KyllgpvQFuI",
+      "https://developers.notion.com/reference/authentication",
+      "https://developers.notion.com/reference/intro",
+      "https://developers.notion.com/reference/create-a-token",
+      "https://developers.notion.com/guides/get-started/overview"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Airtable",
+    "category": "Productivity and Project Management",
+    "website": "airtable.com/developers",
+    "hint": "airtable.com/developers",
+    "one_liner": "Airtable — Productivity and Project Management (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://ones.com/blog/developers-quick-start-to-airtable-api-documentation",
+      "https://www.youtube.com/watch?v=B74HpJcQFC4",
+      "https://airtable-python-wrapper.readthedocs.io/en/airtable-python-wrapper/authentication.html"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:28:02.626982+00:00",
+    "search_urls": [
+      "https://ones.com/blog/developers-quick-start-to-airtable-api-documentation",
+      "https://www.youtube.com/watch?v=B74HpJcQFC4",
+      "https://airtable-python-wrapper.readthedocs.io/en/airtable-python-wrapper/authentication.html",
+      "https://support.airtable.com/articles/9934989703-creating-personal-access-tokens",
+      "https://community.latenode.com/t/working-with-airtable-rest-api-in-python-without-official-client-library/25103",
+      "https://air.tableforums.com/t/transitioning-from-api-key-to-oauth-personal-access-tokens/391",
+      "https://community.airtable.com/development-apis-11/regarding-airtable-api-key-deprecation-and-the-use-of-external-services-in-scripts-and-automations-4078",
+      "https://community.airtable.com/development-apis-11/airtable-api-keys-oauth-3751"
+    ],
+    "verified_at": "2026-08-17T13:40:28.778605+00:00",
+    "verification_overall": "unverifiable"
+  },
+  {
+    "id": 73,
+    "name": "Linear",
+    "category": "Productivity and Project Management",
+    "website": "developers.linear.app",
+    "hint": "developers.linear.app",
+    "one_liner": "Linear — Productivity and Project Management (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "GraphQL",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://linear.app/developers/graphql",
+      "https://linear.app/developers/oauth-2-0-authentication",
+      "https://apitracker.io/a/linear-app"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:28:09.017670+00:00",
+    "search_urls": [
+      "https://linear.app/developers/graphql",
+      "https://linear.app/developers/oauth-2-0-authentication",
+      "https://apitracker.io/a/linear-app",
+      "https://linear.app/developers",
+      "https://docs.useparagon.com/resources/integrations/linear",
+      "https://rollout.com/integration-guides/linear/api-essentials",
+      "https://supergood.ai/api-report-card/linear",
+      "https://linear.app/docs/api-and-webhooks"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Jira",
+    "category": "Productivity and Project Management",
+    "website": "developer.atlassian.com",
+    "hint": "developer.atlassian.com",
+    "one_liner": "Jira — Productivity and Project Management (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://community.atlassian.com/forums/Jira-questions/How-to-authenticate-to-Jira-REST-API/qaq-p/814987",
+      "https://www.youtube.com/watch?v=2ahOpLVcYqQ",
+      "https://developer.atlassian.com/server/jira/platform/basic-authentication"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:28:15.484568+00:00",
+    "search_urls": [
+      "https://community.atlassian.com/forums/Jira-questions/How-to-authenticate-to-Jira-REST-API/qaq-p/814987",
+      "https://www.youtube.com/watch?v=2ahOpLVcYqQ",
+      "https://developer.atlassian.com/server/jira/platform/basic-authentication",
+      "https://community.developer.atlassian.com/t/jira-api-guidance-for-integration-with-bespoke-software/26024",
+      "https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro",
+      "https://confluence.atlassian.com/adminjiraserver/jira-oauth-2-0-provider-api-1115659070.html",
+      "https://developer.atlassian.com/cloud/jira/platform/basic-auth-for-rest-apis",
+      "https://developer.atlassian.com/server/jira/platform/jira-rest-api-example-oauth-authentication-6291692"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Asana",
+    "category": "Productivity and Project Management",
+    "website": "developers.asana.com",
+    "hint": "developers.asana.com",
+    "one_liner": "Asana — Productivity and Project Management (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://help.asana.com/s/article/api?language=en_US",
+      "https://developers.asana.com/docs/authentication",
+      "https://developers.asana.com/docs/api-explorer"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:28:21.531776+00:00",
+    "search_urls": [
+      "https://help.asana.com/s/article/api?language=en_US",
+      "https://developers.asana.com/docs/authentication",
+      "https://developers.asana.com/docs/api-explorer",
+      "https://developers.asana.com/docs/personal-access-token",
+      "https://asana.com/developers",
+      "https://forum.asana.com/t/oauth-personal-access-token-api-key-how-to-get-connected-to-asana-through-our-api/814",
+      "https://forum.asana.com/t/feature-request-read-only-oauth-scope-for-enhanced-security/1045862",
+      "https://developers.asana.com/docs/quick-start"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Monday.com",
+    "category": "Productivity and Project Management",
+    "website": "developer.monday.com",
+    "hint": "developer.monday.com",
+    "one_liner": "Monday.com — Productivity and Project Management (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "trial",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "GraphQL",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://developer.monday.com/api-reference/docs/basics",
+      "https://apix-drive.com/en/blog/other/monday-api-integration",
+      "https://endgrate.com/blog/using-the-monday.com-api-to-get-board-items-in-javascript"
+    ],
+    "confidence": 0.65,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:28:28.002546+00:00",
+    "search_urls": [
+      "https://developer.monday.com/api-reference/docs/basics",
+      "https://apix-drive.com/en/blog/other/monday-api-integration",
+      "https://endgrate.com/blog/using-the-monday.com-api-to-get-board-items-in-javascript",
+      "https://developer.monday.com/apps/docs/choosing-auth",
+      "https://www.youtube.com/watch?v=cMupQ0mH08A",
+      "https://support.monday.com/hc/en-us/articles/360005144659-Does-monday-com-have-an-API",
+      "https://developer.monday.com/apps/docs/oauth",
+      "https://www.youtube.com/watch?v=91owYf7Q3Ps"
+    ],
+    "verified_at": "2026-08-17T13:40:13.221667+00:00",
+    "verification_overall": "partial"
+  },
+  {
+    "id": 77,
+    "name": "ClickUp",
+    "category": "Productivity and Project Management",
+    "website": "clickup.com/api",
+    "hint": "clickup.com/api",
+    "one_liner": "ClickUp — Productivity and Project Management (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "GraphQL",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://apitracker.io/a/clickup",
+      "https://developer.clickup.com/docs/authentication",
+      "https://endgrate.com/blog/using-the-clickup-api-to-create-task-(with-php-examples)"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:28:33.491179+00:00",
+    "search_urls": [
+      "https://apitracker.io/a/clickup",
+      "https://developer.clickup.com/docs/authentication",
+      "https://endgrate.com/blog/using-the-clickup-api-to-create-task-(with-php-examples)",
+      "https://github.com/api-evangelist/clickup",
+      "https://clickup.com/blog/clickup-api",
+      "https://www.merge.dev/blog/clickup-api-key",
+      "https://developer.clickup.com",
+      "https://developer.clickup.com/docs/Getting%20Started"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Coda",
+    "category": "Productivity and Project Management",
+    "website": "coda.io/developers",
+    "hint": "coda.io/developers",
+    "one_liner": "Coda — Productivity and Project Management (heuristic extract)",
+    "auth_methods": [
+      "API key",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://dlthub.com/context/source/coda-docs-migration",
+      "https://apis.io/apis/coda/coda-docs-api",
+      "https://coda.io/developers"
+    ],
+    "confidence": 0.65,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:28:39.619143+00:00",
+    "search_urls": [
+      "https://dlthub.com/context/source/coda-docs-migration",
+      "https://apis.io/apis/coda/coda-docs-api",
+      "https://coda.io/developers",
+      "https://docs.useparagon.com/resources/integrations/coda",
+      "https://github.com/licht1stein/codaio",
+      "https://codaio.readthedocs.io/en/latest",
+      "https://mixedanalytics.com/knowledge-base/import-coda-data-to-google-sheets"
+    ],
+    "verified_at": "2026-08-17T13:40:25.013509+00:00",
+    "verification_overall": "partial"
+  },
+  {
+    "id": 79,
+    "name": "Smartsheet",
+    "category": "Productivity and Project Management",
+    "website": "smartsheet.com/developers",
+    "hint": "smartsheet.com/developers",
+    "one_liner": "Smartsheet — Productivity and Project Management (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://developers.smartsheet.com/api/smartsheet/guides/basics/authentication",
+      "https://www.youtube.com/watch?v=eoeZSfZ6a7o",
+      "http://gt-events.net/api-getting-started.html"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:28:46.704844+00:00",
+    "search_urls": [
+      "https://developers.smartsheet.com/api/smartsheet/guides/basics/authentication",
+      "https://www.youtube.com/watch?v=eoeZSfZ6a7o",
+      "http://gt-events.net/api-getting-started.html",
+      "https://smartsheet.redoc.ly?iOS=",
+      "https://developers.smartsheet.com/api/smartsheet/openapi",
+      "https://developers.smartsheet.com/api/smartsheet/guides/advanced-topics/oauth",
+      "https://help.smartsheet.com/articles/2482389-generate-API-key",
+      "https://www.youtube.com/watch?v=IVHK5T1Zz-E"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Harvest",
+    "category": "Productivity and Project Management",
+    "website": "harvestapp.com",
+    "hint": "help.getharvest.com/api-v2",
+    "one_liner": "Harvest — Productivity and Project Management (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "contact_sales",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "contact_sales gate",
+    "evidence_urls": [
+      "https://help.getharvest.com/api-v2/authentication-api/authentication/authentication",
+      "https://www.getharvest.com/blog/2017/09/introducing-harvest-api-v2",
+      "https://support.greenhouse.io/hc/en-us/articles/115000521723-Manage-Harvest-API-credentials-permissions"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:28:54.197127+00:00",
+    "search_urls": [
+      "https://help.getharvest.com/api-v2/authentication-api/authentication/authentication",
+      "https://www.getharvest.com/blog/2017/09/introducing-harvest-api-v2",
+      "https://support.greenhouse.io/hc/en-us/articles/115000521723-Manage-Harvest-API-credentials-permissions",
+      "https://developers.greenhouse.io/harvest.html",
+      "https://www.youtube.com/watch?v=YMFblL_EjIU",
+      "https://help.getharvest.com/api-v1/authentication/authentication/oauth",
+      "https://help.getharvest.com/api-v2"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Stripe",
+    "category": "Finance and Fintech",
+    "website": "stripe.com/docs/api",
+    "hint": "stripe.com/docs/api",
+    "one_liner": "Stripe — Finance and Fintech (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://apitracker.io/a/stripe",
+      "https://docs.stripe.com/keys",
+      "https://stripe.dev"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:29:00.383873+00:00",
+    "search_urls": [
+      "https://apitracker.io/a/stripe",
+      "https://docs.stripe.com/keys",
+      "https://stripe.dev",
+      "https://docs.stripe.com/api",
+      "https://docs.stripe.com/apis",
+      "https://docs.stripe.com/stripe-apps/api-authentication",
+      "https://docs.stripe.com/stripe-apps/api-authentication/oauth",
+      "https://nango.dev/docs/api-integrations/stripe-api-key/connect"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Plaid",
+    "category": "Finance and Fintech",
+    "website": "plaid.com/docs",
+    "hint": "plaid.com/docs",
+    "one_liner": "Plaid — Finance and Fintech (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://github.com/api-evangelist/plaid",
+      "https://apis.io/providers/plaid",
+      "https://plaid.com/docs/api/products/auth"
+    ],
+    "confidence": 0.65,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:29:06.022292+00:00",
+    "search_urls": [
+      "https://github.com/api-evangelist/plaid",
+      "https://apis.io/providers/plaid",
+      "https://plaid.com/docs/api/products/auth",
+      "https://plaid.com/products/auth",
+      "https://www.youtube.com/watch?v=sGBvKDGgPjc",
+      "https://plaid.com/docs/api/oauth",
+      "https://plaid.com/docs/api/items",
+      "https://plaid.com/docs/api"
+    ],
+    "verified_at": "2026-08-17T13:39:50.261245+00:00",
+    "verification_overall": "partial"
+  },
+  {
+    "id": 83,
+    "name": "Binance",
+    "category": "Finance and Fintech",
+    "website": "binance-docs.github.io",
+    "hint": "binance-docs.github.io",
+    "one_liner": "Binance — Finance and Fintech (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://developers.binance.com/en/docs/catalog/core-trading-spot-trading/api/ws-api/auth",
+      "https://developers.binance.com/en/docs/introduction",
+      "https://developers.binance.com/en/docs"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:29:13.024075+00:00",
+    "search_urls": [
+      "https://developers.binance.com/en/docs/catalog/core-trading-spot-trading/api/ws-api/auth",
+      "https://developers.binance.com/en/docs/introduction",
+      "https://developers.binance.com/en/docs",
+      "https://developers.binance.com/en",
+      "https://docs.binance.us",
+      "https://python-binance.readthedocs.io/en/latest/binance.html",
+      "https://github.com/binance/binance-spot-api-docs",
+      "https://github.com/binance-exchange/binance-official-api-docs/blob/master/rest-api.md"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Paygent Connect",
+    "category": "Finance and Fintech",
+    "website": "paygent.com",
+    "hint": "paygent (NMI-powered)",
+    "one_liner": "Paygent Connect — Finance and Fintech (heuristic extract)",
+    "auth_methods": [
+      "API key"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://docs.payaconnect.com/developers",
+      "https://www.youtube.com/watch?v=nVKReCDBNpE",
+      "https://developer.payments.jpmorgan.com/api/authentication"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:29:19.258461+00:00",
+    "search_urls": [
+      "https://docs.payaconnect.com/developers",
+      "https://www.youtube.com/watch?v=nVKReCDBNpE",
+      "https://developer.payments.jpmorgan.com/api/authentication",
+      "https://www.cardconnect.com/launchpointe/isv-growth/guide-for-developers",
+      "https://paymentservices.amazon.com/docs/api",
+      "https://support.storeconnect.com/articles/nmi-payment-provider",
+      "https://resources.finsync.com/how-to-enable-your-nmi-payments-gateway",
+      "https://docs.nmi.com/docs/payment-component"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "iPayX",
+    "category": "Finance and Fintech",
+    "website": "ipayx.ai/docs",
+    "hint": "ipayx.ai/docs",
+    "one_liner": "iPayX — Finance and Fintech (heuristic extract)",
+    "auth_methods": [
+      "API key",
+      "Basic"
+    ],
+    "self_serve": "unknown",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://developer.payments.jpmorgan.com/api/authentication",
+      "https://docs.payaconnect.com/developers/api/endpoints/authentication",
+      "https://developers.paytronix.com/pxs_api_reference/authentication.html"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:29:27.328397+00:00",
+    "search_urls": [
+      "https://developer.payments.jpmorgan.com/api/authentication",
+      "https://docs.payaconnect.com/developers/api/endpoints/authentication",
+      "https://developers.paytronix.com/pxs_api_reference/authentication.html",
+      "https://developer.visa.com/capabilities/visa-in-app-provisioning/docs-authentication",
+      "https://docs.secureauth.com/iam/docs/api",
+      "https://docs.pay-i.com/docs/pay-i-api-keys",
+      "https://docs.akeyless.io/docs/auth-with-api-key",
+      "https://docs.cloud.google.com/docs/authentication/api-keys"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "QuickBooks",
+    "category": "Finance and Fintech",
+    "website": "developer.intuit.com",
+    "hint": "developer.intuit.com",
+    "one_liner": "QuickBooks — Finance and Fintech (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://liveflow.com/learn/quickbooks-api",
+      "https://www.getknit.dev/blog/quickbooks-online-api-integration-guide-in-depth",
+      "https://www.youtube.com/watch?v=Q3R57tDkvus"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:29:33.041348+00:00",
+    "search_urls": [
+      "https://liveflow.com/learn/quickbooks-api",
+      "https://www.getknit.dev/blog/quickbooks-online-api-integration-guide-in-depth",
+      "https://www.youtube.com/watch?v=Q3R57tDkvus",
+      "https://dev.to/zuplo/quickbooks-api-complete-developers-guide-2026-3l77",
+      "https://apitracker.io/a/quickbooks",
+      "https://www.apideck.com/blog/how-to-get-your-quickbooks-api-key",
+      "https://www.merge.dev/blog/quickbooks-online-api-key",
+      "https://www.klavis.ai/docs/knowledge-base/oauth_app/quickbooks"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Xero",
+    "category": "Finance and Fintech",
+    "website": "developer.xero.com",
+    "hint": "developer.xero.com",
+    "one_liner": "Xero — Finance and Fintech (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "trial",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "GraphQL",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://xero.uservoice.com/forums/5528-accounting-api/category/37766-authentication?category_id=98494&status_id=31940",
+      "https://developer.xero.com/documentation/guides/oauth2/auth-flow",
+      "https://apitracker.io/a/xero"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:29:40.067611+00:00",
+    "search_urls": [
+      "https://xero.uservoice.com/forums/5528-accounting-api/category/37766-authentication?category_id=98494&status_id=31940",
+      "https://developer.xero.com/documentation/guides/oauth2/auth-flow",
+      "https://apitracker.io/a/xero",
+      "https://developer.xero.com/documentation/sdks-and-tools/tools/postman",
+      "https://developer.xero.com/documentation/guides/oauth2/overview",
+      "https://github.com/xeroapi",
+      "https://www.apideck.com/blog/how-to-get-xero-api-key",
+      "https://developer.xero.com/faq/getting-started"
+    ],
+    "verified_at": "2026-08-17T13:40:06.786350+00:00",
+    "verification_overall": "unverifiable"
+  },
+  {
+    "id": 88,
+    "name": "Brex",
+    "category": "Finance and Fintech",
+    "website": "developer.brex.com",
+    "hint": "developer.brex.com",
+    "one_liner": "Brex — Finance and Fintech (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "token"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://www.openbankingtracker.com/provider/brex/apis",
+      "https://developer.brex.com/guides/authentication",
+      "https://developer.brex.com/guides/partner_authentication"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:29:46.281863+00:00",
+    "search_urls": [
+      "https://www.openbankingtracker.com/provider/brex/apis",
+      "https://developer.brex.com/guides/authentication",
+      "https://developer.brex.com/guides/partner_authentication",
+      "https://apitracker.io/a/brex",
+      "https://www.brex.com/journal/building-the-brex-api",
+      "https://supergood.ai/api-report-card/brex",
+      "https://developer.brex.com/guides/quickstart"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Ramp",
+    "category": "Finance and Fintech",
+    "website": "docs.ramp.com",
+    "hint": "docs.ramp.com",
+    "one_liner": "Ramp — Finance and Fintech (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://mcpmarket.com/server/ramp-developer",
+      "https://support.ramp.com/accessing-the-developer-api",
+      "https://docs.ramp.com/developer-api/v1"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:29:52.197903+00:00",
+    "search_urls": [
+      "https://mcpmarket.com/server/ramp-developer",
+      "https://support.ramp.com/accessing-the-developer-api",
+      "https://docs.ramp.com/developer-api/v1",
+      "https://ramp.com/developer-tools",
+      "https://ramp.com/technology-partnerships",
+      "https://docs.nexla.com/user-guides/connectors/ramp_api",
+      "https://apidog.com/blog/ramp-api",
+      "https://docs.rs/ramp-api"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "PitchBook",
+    "category": "Finance and Fintech",
+    "website": "pitchbook.com",
+    "hint": "pitchbook.com (research API)",
+    "one_liner": "PitchBook — Finance and Fintech (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://scrapegraphai.com/blog/pitchbook-api",
+      "https://apitracker.io/a/pitchbook",
+      "https://pipeline.zoominfo.com/sales/pitchbook-api-review"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:29:58.609610+00:00",
+    "search_urls": [
+      "https://scrapegraphai.com/blog/pitchbook-api",
+      "https://apitracker.io/a/pitchbook",
+      "https://pipeline.zoominfo.com/sales/pitchbook-api-review",
+      "https://dlthub.com/context/source/pitchbook-api",
+      "https://dev.writer.com/connectors/pitchbook",
+      "https://pitchbook.com/help/PitchBook-api"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "NotebookLM",
+    "category": "AI, Research and Media-native",
+    "website": "cloud.google.com/gemini",
+    "hint": "cloud.google.com/gemini (Enterprise API)",
+    "one_liner": "NotebookLM — AI, Research and Media-native (heuristic extract)",
+    "auth_methods": [
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://roomi-fields.github.io/notebooklm-mcp/notebooklm-rest-api",
+      "https://autocontentapi.com/blog/does-notebooklm-have-an-api",
+      "https://github.com/gnh1201/notebooklm-rest-api"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:30:05.365239+00:00",
+    "search_urls": [
+      "https://roomi-fields.github.io/notebooklm-mcp/notebooklm-rest-api",
+      "https://autocontentapi.com/blog/does-notebooklm-have-an-api",
+      "https://github.com/gnh1201/notebooklm-rest-api",
+      "https://docs.cloud.google.com/gemini/enterprise/notebooklm-enterprise/docs/api-notebooks",
+      "https://discuss.ai.google.dev/t/notebooklm-api/55950",
+      "https://notebookclipper.com/blog/gemini-notebook-api",
+      "https://discuss.ai.google.dev/t/how-to-access-notebooklm-via-api/5084?page=2",
+      "https://docs.cloud.google.com/gemini/enterprise/notebooklm-enterprise/docs/set-up-notebooklm"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Otter AI",
+    "category": "AI, Research and Media-native",
+    "website": "otter.ai",
+    "hint": "help.otter.ai (MCP server)",
+    "one_liner": "Otter AI — AI, Research and Media-native (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://apitracker.io/a/otter-ai",
+      "https://help.otter.ai/hc/en-us/articles/36130822688279-Otter-ai-Public-API",
+      "https://docs.inedo.com/docs/otter/reference/api"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:30:12.992343+00:00",
+    "search_urls": [
+      "https://apitracker.io/a/otter-ai",
+      "https://help.otter.ai/hc/en-us/articles/36130822688279-Otter-ai-Public-API",
+      "https://docs.inedo.com/docs/otter/reference/api",
+      "https://github.com/gmchad/otterai-api",
+      "https://helpdesk.tryotter.com/hc/en-us/articles/22694653065107-API-Documentation",
+      "https://github.com/bcharleson/otter-cli",
+      "https://www.usecarly.com/blog/claude-otter-ai-integration",
+      "https://help.otter.ai/hc/en-us/articles/35287607569687-Otter-MCP-Server"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Fathom",
+    "category": "AI, Research and Media-native",
+    "website": "fathom.video",
+    "hint": "fathom.video",
+    "one_liner": "Fathom — AI, Research and Media-native (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "partnership",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "blocked",
+    "blocker": "partnership gate",
+    "evidence_urls": [
+      "https://developers.fathom.ai/api-overview",
+      "https://api-docs.fathom.global/usage.html",
+      "https://mindcloud.co/docs/universal/rest/fathom/latest/introduction/authentication"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:30:21.258464+00:00",
+    "search_urls": [
+      "https://developers.fathom.ai/api-overview",
+      "https://api-docs.fathom.global/usage.html",
+      "https://mindcloud.co/docs/universal/rest/fathom/latest/introduction/authentication",
+      "https://developers.fathom.ai",
+      "https://www.youtube.com/watch?v=R4FpOKFdIhE",
+      "https://help.fathom.video/en/articles/8368641",
+      "https://github.com/trevorwelch/fathom-video-mcp",
+      "https://apitracker.io/a/fathom-video"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Consensus",
+    "category": "AI, Research and Media-native",
+    "website": "consensus.app",
+    "hint": "consensus.app (OAuth requested)",
+    "one_liner": "Consensus — AI, Research and Media-native (heuristic extract)",
+    "auth_methods": [
+      "unknown"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "CLI",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://pipeline.zoominfo.com/sales/consensus-api",
+      "https://docs.cvat.ai/docs/api_sdk/sdk/reference/apis/consensus-api",
+      "https://support.goconsensus.com/consensus-api-documents"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:30:27.547915+00:00",
+    "search_urls": [
+      "https://pipeline.zoominfo.com/sales/consensus-api",
+      "https://docs.cvat.ai/docs/api_sdk/sdk/reference/apis/consensus-api",
+      "https://support.goconsensus.com/consensus-api-documents",
+      "https://devdocs.work/solutions/developer-experience",
+      "https://consensus.app/home/api",
+      "https://www.quicknode.com/docs/cosmos/consensus_params",
+      "https://consensus.app/home/mcp"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Reducto",
+    "category": "AI, Research and Media-native",
+    "website": "reducto.ai",
+    "hint": "reducto.ai (document parsing)",
+    "one_liner": "Reducto — AI, Research and Media-native (heuristic extract)",
+    "auth_methods": [
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://docs.reducto.ai/quickstart",
+      "https://apis.io/apis/reducto/reducto-extract-api",
+      "https://github.com/reductoai/reducto-python-sdk"
+    ],
+    "confidence": 0.65,
+    "extraction_method": "heuristic",
+    "research_pass": 2,
+    "researched_at": "2026-08-17T13:30:33.387715+00:00",
+    "search_urls": [
+      "https://docs.reducto.ai/quickstart",
+      "https://apis.io/apis/reducto/reducto-extract-api",
+      "https://github.com/reductoai/reducto-python-sdk",
+      "https://docs.reducto.ai/overview",
+      "https://www.extend.ai/resources/document-processing-apis-developers",
+      "https://docs.reducto.ai/v/legacy/quickstart",
+      "https://github.com/api-evangelist/reducto-ai",
+      "https://llms.reducto.ai"
+    ],
+    "verified_at": "2026-08-17T13:39:55.992365+00:00",
+    "verification_overall": "partial"
+  },
+  {
+    "id": 96,
+    "name": "Devin",
+    "category": "AI, Research and Media-native",
+    "website": "docs.devin.ai",
+    "hint": "docs.devin.ai (MCP)",
+    "one_liner": "Devin — AI, Research and Media-native (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://fast.io/resources/devin-ai-api-key",
+      "https://engineering.mercari.com/en/blog/entry/20260403-secure-devin-management",
+      "https://docs.getdx.com/connectors/devin"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:30:39.509950+00:00",
+    "search_urls": [
+      "https://fast.io/resources/devin-ai-api-key",
+      "https://engineering.mercari.com/en/blog/entry/20260403-secure-devin-management",
+      "https://docs.getdx.com/connectors/devin",
+      "https://cognition.com/blog/devin-101-automatic-pr-reviews-with-the-devin-api",
+      "https://medium.com/@universe3523/boosting-documentation-with-devin-ai-2257cfb04c79",
+      "https://docs.devin.ai/work-with-devin/devin-mcp",
+      "https://docs.devin.ai/release-notes/overview",
+      "https://fast.io/resources/devin-ai-mcp-guide"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "higgsfield",
+    "category": "AI, Research and Media-native",
+    "website": "higgsfield.ai/cli",
+    "hint": "higgsfield.ai/cli (content suite)",
+    "one_liner": "higgsfield — AI, Research and Media-native (heuristic extract)",
+    "auth_methods": [
+      "API key",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://videogenapi.com/higgsfield_v1-api",
+      "https://apidog.com/blog/higgsfield-api",
+      "https://www.pixazo.ai/models/higgsfield"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:30:46.272994+00:00",
+    "search_urls": [
+      "https://videogenapi.com/higgsfield_v1-api",
+      "https://apidog.com/blog/higgsfield-api",
+      "https://www.pixazo.ai/models/higgsfield",
+      "https://apis.io/providers/higgsfield",
+      "https://mindcloud.co/docs/universal/rest/higgsfield-ai/latest/introduction/authentication",
+      "https://www.mindstudio.ai/blog/higgsfield-cli-claude-code-content-automation",
+      "https://apps.make.com/higgsfield-ai-sxl99v",
+      "https://github.com/higgsfield-ai/higgsfield-client"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Mermaid CLI",
+    "category": "AI, Research and Media-native",
+    "website": "github.com/mermaid-js/mermaid-cli",
+    "hint": "github.com/mermaid-js/mermaid-cli",
+    "one_liner": "Mermaid CLI — AI, Research and Media-native (heuristic extract)",
+    "auth_methods": [
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://mermaid-api.readthedocs.io",
+      "https://datamermaid.org/documentation/mermaid-api",
+      "https://www.mermaideditor.io/use-cases/api-documentation"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:30:52.260862+00:00",
+    "search_urls": [
+      "https://mermaid-api.readthedocs.io",
+      "https://datamermaid.org/documentation/mermaid-api",
+      "https://www.mermaideditor.io/use-cases/api-documentation",
+      "https://blog.starmorph.com/blog/mermaid-js-tutorial",
+      "https://github.com/mermaid-js/mermaid-cli",
+      "https://github.com/mermaid-js/mermaid-cli/blob/master/building.md",
+      "https://github.com/mermaidjs/mermaid.cli",
+      "https://mermaid2img.com/blog/another-way-to-convert-mermaid-to-img-for-developer"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "YouTube Transcript",
+    "category": "AI, Research and Media-native",
+    "website": "transcriptapi.com",
+    "hint": "transcriptapi.com",
+    "one_liner": "YouTube Transcript — AI, Research and Media-native (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "API key",
+      "token"
+    ],
+    "self_serve": "paid_plan",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "REST",
+    "api_breadth": "unknown",
+    "mcp_exists": false,
+    "mcp_detail": "",
+    "buildability": "partial",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://transcriptapi.com/blog/youtube-transcript-api-complete-developer-guide",
+      "https://www.youtubetranscript.dev/api-docs",
+      "https://transcriptapi.com/docs/api"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:30:58.699018+00:00",
+    "search_urls": [
+      "https://transcriptapi.com/blog/youtube-transcript-api-complete-developer-guide",
+      "https://www.youtubetranscript.dev/api-docs",
+      "https://transcriptapi.com/docs/api",
+      "https://tubealfred.com/blog/youtube-transcript-api",
+      "https://skipthewatch.com/blog/youtube-transcript-api-guide",
+      "https://transcriptapi.com",
+      "https://supadata.ai/blog/best-youtube-transcript-api",
+      "https://mcpservers.org/servers/zeropointrepo/youtube-mcp"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Grain",
+    "category": "AI, Research and Media-native",
+    "website": "grain.com",
+    "hint": "grain.com (meeting notes)",
+    "one_liner": "Grain — AI, Research and Media-native (heuristic extract)",
+    "auth_methods": [
+      "OAuth2",
+      "Basic",
+      "token"
+    ],
+    "self_serve": "self_serve",
+    "self_serve_detail": "Heuristic from search snippets (LLM rate-limited)",
+    "api_type": "both",
+    "api_breadth": "unknown",
+    "mcp_exists": true,
+    "mcp_detail": "MCP mentioned in docs",
+    "buildability": "ready",
+    "blocker": "none",
+    "evidence_urls": [
+      "https://apitracker.io/a/grain-co",
+      "https://developers.grain.com",
+      "https://developers.glean.com/api/platform-api/authentication"
+    ],
+    "confidence": 0.55,
+    "extraction_method": "heuristic",
+    "research_pass": 1,
+    "researched_at": "2026-08-17T13:31:04.515207+00:00",
+    "search_urls": [
+      "https://apitracker.io/a/grain-co",
+      "https://developers.grain.com",
+      "https://developers.glean.com/api/platform-api/authentication",
+      "https://help.getharvest.com/api-v2/authentication-api/authentication/authentication",
+      "https://docs.grain.inc",
+      "https://semarize.com/resources/get-your-data/grain",
+      "https://grain.com",
+      "https://support.grain.com/en/articles/15297887-export-meetings"
+    ]
+  }
+]

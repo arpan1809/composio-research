@@ -1,0 +1,979 @@
+[
+  {
+    "app_id": 82,
+    "app_name": "Plaid",
+    "evidence_url": "https://plaid.com/docs/api/products/auth",
+    "overall": "partial",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "token"
+      },
+      {
+        "field": "self_serve",
+        "verdict": "correct",
+        "note": "partnership"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": true,
+        "verdict": "correct"
+      },
+      {
+        "field": "self_serve",
+        "value": "partnership",
+        "keyword_found": true,
+        "verdict": "correct"
+      }
+    ],
+    "verification_note": "Keyword check: 2/4 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:39:50.261245+00:00"
+  },
+  {
+    "app_id": 15,
+    "app_name": "Pylon",
+    "evidence_url": "https://docs.usepylon.com/pylon-docs/developer/api/authentication",
+    "overall": "unverifiable",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "token"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      }
+    ],
+    "verification_note": "Keyword check: 0/3 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:39:52.448320+00:00"
+  },
+  {
+    "app_id": 4,
+    "app_name": "Attio",
+    "evidence_url": "https://www.stacksync.com/blog/how-to-get-an-attio-developer-account-and-start-working-with-attios-api",
+    "overall": "partial",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "Basic"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "token"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": true,
+        "verdict": "correct"
+      },
+      {
+        "field": "auth_methods",
+        "value": "Basic",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": true,
+        "verdict": "correct"
+      }
+    ],
+    "verification_note": "Keyword check: 2/4 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:39:54.138412+00:00"
+  },
+  {
+    "app_id": 95,
+    "app_name": "Reducto",
+    "evidence_url": "https://docs.reducto.ai/quickstart",
+    "overall": "partial",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "token"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": true,
+        "verdict": "correct"
+      }
+    ],
+    "verification_note": "Keyword check: 1/2 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:39:55.992365+00:00"
+  },
+  {
+    "app_id": 36,
+    "app_name": "Klaviyo",
+    "evidence_url": "https://developers.klaviyo.com/en/reference/api_overview",
+    "overall": "unverifiable",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "API key"
+      },
+      {
+        "field": "self_serve",
+        "verdict": "unverifiable",
+        "note": "contact_sales"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "self_serve",
+        "value": "contact_sales",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      }
+    ],
+    "verification_note": "Keyword check: 0/3 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:39:57.711450+00:00"
+  },
+  {
+    "app_id": 32,
+    "app_name": "Meta Ads",
+    "evidence_url": "https://developers.facebook.com/documentation/ads-commerce/marketing-api/get-started/authentication",
+    "overall": "correct",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "token"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": true,
+        "verdict": "correct"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": true,
+        "verdict": "correct"
+      }
+    ],
+    "verification_note": "Keyword check: 2/2 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:39:59.654549+00:00"
+  },
+  {
+    "app_id": 29,
+    "app_name": "Aircall",
+    "evidence_url": "https://developer.aircall.io/docs/introduction",
+    "overall": "partial",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "Basic"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "token"
+      },
+      {
+        "field": "self_serve",
+        "verdict": "unverifiable",
+        "note": "partnership"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": true,
+        "verdict": "correct"
+      },
+      {
+        "field": "auth_methods",
+        "value": "Basic",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": true,
+        "verdict": "correct"
+      },
+      {
+        "field": "self_serve",
+        "value": "partnership",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      }
+    ],
+    "verification_note": "Keyword check: 2/5 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:40:01.189394+00:00"
+  },
+  {
+    "app_id": 18,
+    "app_name": "Help Scout",
+    "evidence_url": "https://apis.apievangelist.com/store/helpscout-customers-api",
+    "overall": "unverifiable",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "Basic"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "token"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "Basic",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      }
+    ],
+    "verification_note": "Keyword check: 0/4 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:40:02.678211+00:00"
+  },
+  {
+    "app_id": 14,
+    "app_name": "Front",
+    "evidence_url": "https://dev.frontapp.com/docs/create-and-revoke-api-tokens",
+    "overall": "partial",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "token"
+      },
+      {
+        "field": "self_serve",
+        "verdict": "unverifiable",
+        "note": "partnership"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": true,
+        "verdict": "correct"
+      },
+      {
+        "field": "self_serve",
+        "value": "partnership",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      }
+    ],
+    "verification_note": "Keyword check: 1/4 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:40:04.164712+00:00"
+  },
+  {
+    "app_id": 87,
+    "app_name": "Xero",
+    "evidence_url": "https://developer.xero.com/documentation/guides/oauth2/auth-flow",
+    "overall": "unverifiable",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "token"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      }
+    ],
+    "verification_note": "Keyword check: 0/3 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:40:06.786350+00:00"
+  },
+  {
+    "app_id": 70,
+    "app_name": "Sentry",
+    "evidence_url": "https://docs.sentry.io/api/auth",
+    "overall": "unverifiable",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "token"
+      },
+      {
+        "field": "self_serve",
+        "verdict": "unverifiable",
+        "note": "partnership"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "self_serve",
+        "value": "partnership",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      }
+    ],
+    "verification_note": "Keyword check: 0/4 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:40:08.434173+00:00"
+  },
+  {
+    "app_id": 12,
+    "app_name": "Intercom",
+    "evidence_url": "https://www.intercom.com/help/en/articles/9071694-intercom-developer-faqs",
+    "overall": "partial",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "token"
+      },
+      {
+        "field": "self_serve",
+        "verdict": "correct",
+        "note": "contact_sales"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "self_serve",
+        "value": "contact_sales",
+        "keyword_found": true,
+        "verdict": "correct"
+      }
+    ],
+    "verification_note": "Keyword check: 1/4 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:40:11.303965+00:00"
+  },
+  {
+    "app_id": 76,
+    "app_name": "Monday.com",
+    "evidence_url": "https://developer.monday.com/api-reference/docs/basics",
+    "overall": "partial",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "token"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": true,
+        "verdict": "correct"
+      }
+    ],
+    "verification_note": "Keyword check: 1/3 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:40:13.221667+00:00"
+  },
+  {
+    "app_id": 55,
+    "app_name": "Apify",
+    "evidence_url": "https://docs.apify.com/api",
+    "overall": "partial",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "token"
+      },
+      {
+        "field": "self_serve",
+        "verdict": "unverifiable",
+        "note": "contact_sales"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": true,
+        "verdict": "correct"
+      },
+      {
+        "field": "self_serve",
+        "value": "contact_sales",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      }
+    ],
+    "verification_note": "Keyword check: 1/2 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:40:15.175248+00:00"
+  },
+  {
+    "app_id": 5,
+    "app_name": "Twenty",
+    "evidence_url": "https://docs.twenty.com/developers/introduction",
+    "overall": "partial",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "token"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": true,
+        "verdict": "correct"
+      }
+    ],
+    "verification_note": "Keyword check: 1/3 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:40:17.144193+00:00"
+  },
+  {
+    "app_id": 28,
+    "app_name": "WhatsApp Business",
+    "evidence_url": "https://cloud-api.azure.tsu.edu",
+    "overall": "unverifiable",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "token"
+      },
+      {
+        "field": "self_serve",
+        "verdict": "unverifiable",
+        "note": "partnership"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "self_serve",
+        "value": "partnership",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      }
+    ],
+    "verification_note": "Keyword check: 0/4 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:40:19.171088+00:00"
+  },
+  {
+    "app_id": 30,
+    "app_name": "Vonage",
+    "evidence_url": "https://developer.vonage.com/en/verify/concepts/authentication",
+    "overall": "partial",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "Basic"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "token"
+      },
+      {
+        "field": "self_serve",
+        "verdict": "unverifiable",
+        "note": "contact_sales"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": true,
+        "verdict": "correct"
+      },
+      {
+        "field": "auth_methods",
+        "value": "Basic",
+        "keyword_found": true,
+        "verdict": "correct"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": true,
+        "verdict": "correct"
+      },
+      {
+        "field": "self_serve",
+        "value": "contact_sales",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      }
+    ],
+    "verification_note": "Keyword check: 3/5 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:40:21.194031+00:00"
+  },
+  {
+    "app_id": 65,
+    "app_name": "Supabase",
+    "evidence_url": "https://supabase.com/docs/guides/auth",
+    "overall": "partial",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "token"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": true,
+        "verdict": "correct"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": true,
+        "verdict": "correct"
+      }
+    ],
+    "verification_note": "Keyword check: 2/3 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:40:22.714518+00:00"
+  },
+  {
+    "app_id": 78,
+    "app_name": "Coda",
+    "evidence_url": "https://dlthub.com/context/source/coda-docs-migration",
+    "overall": "partial",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "correct",
+        "note": "token"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": true,
+        "verdict": "correct"
+      }
+    ],
+    "verification_note": "Keyword check: 1/2 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:40:25.013509+00:00"
+  },
+  {
+    "app_id": 72,
+    "app_name": "Airtable",
+    "evidence_url": "https://ones.com/blog/developers-quick-start-to-airtable-api-documentation",
+    "overall": "unverifiable",
+    "field_checks": [
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "OAuth2"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "API key"
+      },
+      {
+        "field": "auth_methods",
+        "verdict": "unverifiable",
+        "note": "token"
+      }
+    ],
+    "keyword_checks": [
+      {
+        "field": "auth_methods",
+        "value": "OAuth2",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "API key",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      },
+      {
+        "field": "auth_methods",
+        "value": "token",
+        "keyword_found": false,
+        "verdict": "unverifiable"
+      }
+    ],
+    "verification_note": "Keyword check: 0/3 auth/gate terms found on page",
+    "verified_at": "2026-08-17T13:40:28.778605+00:00"
+  }
+]
