@@ -126,6 +126,4 @@ python generate_html.py
 - **Evidence links** open real docs URLs
 - **Verification section** after running `verify_agent.py`
 
-### Deploy (free)
 
-Push to GitHub and enable Pages on the `/case-study` folder — see Deploy section above.
